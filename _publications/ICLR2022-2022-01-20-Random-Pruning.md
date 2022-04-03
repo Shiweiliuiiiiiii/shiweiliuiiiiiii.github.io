@@ -1,5 +1,5 @@
 ---
-title: "1. The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training"
+title: "The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training"
 collection: conference publications
 permalink: /publication/ICLR2022-2022-01-20-Random-Pruning
 excerpt: 'We revisit the most naive baseline, random pruning, in sparse training and highlight a perhaps counter-intuitive finding: random pruning can be quite powerful for the sparse training of modern neural networks.'
