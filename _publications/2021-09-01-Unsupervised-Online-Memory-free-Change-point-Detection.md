@@ -14,9 +14,13 @@ Atashgahi, Z., Mocanu, D. C., Veldhuis, R., & Pechenizkiy, M. Unsupervised Onlin
 [Download paper here](https://womencourage.acm.org/2021/wp-content/uploads/2021/07/65_extendedabstract.pdf)
 
 ```
-@article{atashgahiunsupervised,
-  title={Unsupervised Online Memory-free Change-point Detection using an Ensemble of LSTM-Autoencoder-based Neural Networks},
-  author={Atashgahi, Zahra and Mocanu, Decebal Constantin and Veldhuis, Raymond and Pechenizkiy, Mykola}
+@article{
+liu2022the,
+title={The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training},
+author={Shiwei Liu and Tianlong Chen and Xiaohan Chen and Li Shen and Decebal Constantin Mocanu and Zhangyang Wang and Mykola Pechenizkiy},
+booktitle={International Conference on Learning Representations},
+year={2022},
+url={https://openreview.net/forum?id=VBZJ_3tz-t}
 }
 ```
 
