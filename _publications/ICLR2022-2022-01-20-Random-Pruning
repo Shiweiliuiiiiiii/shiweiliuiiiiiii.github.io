@@ -13,8 +13,11 @@ Random pruning is arguably the most naive way to attain sparsity in neural netwo
 [Download paper here](https://openreview.net/forum?id=VBZJ_3tz-t)
 
 
+## Citation
+If you find this paper interesting, please cite this paper.
 ```
-@article{liu2022the,
+@inproceedings{
+liu2022the,
 title={The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training},
 author={Shiwei Liu and Tianlong Chen and Xiaohan Chen and Li Shen and Decebal Constantin Mocanu and Zhangyang Wang and Mykola Pechenizkiy},
 booktitle={International Conference on Learning Representations},
