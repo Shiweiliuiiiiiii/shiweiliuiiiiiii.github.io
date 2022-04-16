@@ -2,7 +2,7 @@
 title: "Do We Actually Need Dense Over-Parameterization? In-Time Over-Parameterization in Sparse Training"
 collection: publications
 permalink: /publication/ICML2021-2021-05-20-In-Time-Over-Parameterization
-excerpt: 'Shiwei Liu, Lu Yin, Decebal Constantin Mocanu, Mykola Pechenizkiy'
+excerpt: '**Shiwei Liu**, Lu Yin, Decebal Constantin Mocanu, Mykola Pechenizkiy'
 date: 2021-05-20
 venue: 'Proceedings of Machine Learning Research, ICML'
 paperurl: 'http://proceedings.mlr.press/v139/liu21y/liu21y.pdf'
