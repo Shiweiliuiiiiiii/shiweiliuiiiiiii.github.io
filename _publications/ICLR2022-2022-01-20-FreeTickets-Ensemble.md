@@ -2,7 +2,7 @@
 title: "Deep Ensembling with No Overhead for either Training or Testing: The All-Round Blessings of Dynamic Sparsity"
 collection: publications
 permalink: /publication/ICLR2022-2022-01-20-FreeTickets-Ensemble
-excerpt: 'Shiwei Liu, Tianlong Chen, Zahra Atashgahi, Xiaohan Chen, Ghada Sokar, Elena Mocanu, Mykola Pechenizkiy, Zhangyang Wang, Decebal Constantin Mocanu'
+excerpt: '**Shiwei Liu**, Tianlong Chen, Zahra Atashgahi, Xiaohan Chen, Ghada Sokar, Elena Mocanu, Mykola Pechenizkiy, Zhangyang Wang, Decebal Constantin Mocanu'
 date: 2022-01-20
 venue: 'The International Conference on Learning Representations, ICLR'
 paperurl: 'https://openreview.net/forum?id=RLtqs6pzj1-'
