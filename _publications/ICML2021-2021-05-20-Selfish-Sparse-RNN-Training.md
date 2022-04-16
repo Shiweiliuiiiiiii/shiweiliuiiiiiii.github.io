@@ -2,7 +2,7 @@
 title: "Selfish sparse rnn training"
 collection: publications
 permalink: /publication/ICML2021-2021-05-20-In-Time-Over-Parameterization
-excerpt: 'Sparse neural networks have been widely applied to reduce the computational demands of training and deploying over-parameterized deep neural networks.'
+excerpt: '**Shiwei Liu**, Decebal Constantin Mocanu, Yulong Pei, Mykola Pechenizkiy'
 date: 2021-05-20
 venue: 'Proceedings of Machine Learning Research, ICML'
 paperurl: 'http://proceedings.mlr.press/v139/liu21p.html'
