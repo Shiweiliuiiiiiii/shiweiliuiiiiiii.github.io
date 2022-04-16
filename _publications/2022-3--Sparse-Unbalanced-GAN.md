@@ -2,7 +2,7 @@
 title: "Don’t Be So Dense: Sparse-to-Sparse GAN Training Without Sacrificing Performance"
 collection: arxiv preprint
 permalink: /publication/2022-3--Sparse-Unbalanced-GAN.md.md
-excerpt: 'Shiwei Liu, Yuesong Tian, Tianlong Chen, Li Shen'
+excerpt: '**Shiwei Liu**, Yuesong Tian, Tianlong Chen, Li Shen'
 date: 2022-3-5
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/pdf/2203.02770.pdf'
