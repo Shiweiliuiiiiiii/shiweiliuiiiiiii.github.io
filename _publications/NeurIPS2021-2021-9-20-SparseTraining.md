@@ -2,7 +2,7 @@
 title: "Sparse Training via Boosting Pruning Plasticity with Neuroregeneration"
 collection: conference publications
 permalink: /publication/NeurIPS2021-2021-9-20-SparseTraining.md
-excerpt: 'We conprehensively study the pruning plasticity of neural networks and propose a state-of-the-art sparse training method - GraNet.'
+excerpt: 'Shiwei Liu, Tianlong Chen, Xiaohan Chen, Zahra Atashgahi, Lu Yin, Huanyu Kou, Li Shen, Mykola Pechenizkiy, Zhangyang Wang, Decebal Constantin Mocanu'
 date: 2021-9-20
 venue: 'Conference on Neural Information Processing Systems (NeurIPS 2021)'
 paperurl: 'https://openreview.net/forum?id=MNVjrDpu6Yo'
