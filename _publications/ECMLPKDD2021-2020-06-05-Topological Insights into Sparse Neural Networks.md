@@ -2,7 +2,7 @@
 title: "Topological Insights into Sparse Neural Networks"
 collection: publications
 permalink: /publication/ECMLPKDD2021-2020-06-05-Topological Insights into Sparse Neural Networks
-excerpt: 'We introduce an approach to understand and compare sparse neural network topologies from the perspective of graph theory. '
+excerpt: 'Shiwei Liu, Tim Van der Lee, Anil Yaman, Zahra Atashgahi, Davide Ferraro, Ghada Sokar, Mykola Pechenizkiy, Decebal Constantin Mocanu'
 date: 2020-06-05
 venue: 'ECMLPKDD'
 paperurl: 'https://arxiv.org/pdf/2006.14085.pdf'
