@@ -2,7 +2,7 @@
 title: "Do We Actually Need Dense Over-Parameterization? In-Time Over-Parameterization in Sparse Training"
 collection: publications
 permalink: /publication/ICML2021-2021-05-20-In-Time-Over-Parameterization
-excerpt: 'In this paper, we introduce a new perspective on training deep neural networks capable of state-of-the-art performance without the need for the expensive over-parameterization by proposing the concept of In-Time Over-Parameterization (ITOP) in sparse training.'
+excerpt: 'Shiwei Liu, Lu Yin, Decebal Constantin Mocanu, Mykola Pechenizkiy'
 date: 2021-05-20
 venue: 'Proceedings of Machine Learning Research, ICML'
 paperurl: 'http://proceedings.mlr.press/v139/liu21y/liu21y.pdf'
