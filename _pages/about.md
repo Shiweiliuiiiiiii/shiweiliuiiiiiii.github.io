@@ -22,7 +22,7 @@ News
 
 ***5/2022***, one paper got accepted by UAI 2022.
 
-***4/2022***, our tutorial "Sparse Neural Networks Training" has been accepted at ECMLPKDD 2022 (link - https://sites.google.com/view/ecmlpkdd2022--sparse-training/home).
+***4/2022***, our tutorial "Sparse Neural Networks Training" has been accepted at ECMLPKDD 2022 (link - [here](https://sites.google.com/view/ecmlpkdd2022--sparse-training/home)).
 
 ***6/4/2022***, I got my PhD with cum laude (distinguished thesis). 
 
