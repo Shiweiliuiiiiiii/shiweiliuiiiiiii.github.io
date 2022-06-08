@@ -20,9 +20,9 @@ Machine Learning, Deep Learning, Sparse Neural Network Training, Sparsity, Compu
 News
 ======
 
-***5/2022***, one paper got accepted by **UAI 2022**.
+***5/2022***, one paper got accepted by **UAI 2022** (link - [here](https://openreview.net/forum?id=HeZlJPLoqgq)).
 
-***4/2022***, our tutorial "Sparse Neural Networks Training" has been accepted at ECMLPKDD 2022 (link - [here](https://sites.google.com/view/ecmlpkdd2022--sparse-training/home)).
+***4/2022***, our tutorial "Sparse Neural Networks Training" has been accepted at **ECMLPKDD 2022** (link - [here](https://sites.google.com/view/ecmlpkdd2022--sparse-training/home)).
 
 ***6/4/2022***, I got my PhD with cum laude (distinguished thesis). 
 
