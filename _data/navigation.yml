@@ -10,7 +10,10 @@ main:
     url: /talks/    
 
   - title: "Teaching & Supervision"
-    url: /teaching/    
+    url: /teaching/
+    
+  - title: "Academic Service"
+    url: /Academic-service/   
     
 #  - title: "Portfolio"
 #    url: /portfolio/
