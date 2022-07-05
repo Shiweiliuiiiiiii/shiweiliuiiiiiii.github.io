@@ -5,7 +5,8 @@ permalink: /Academic-service/
 author_profile: true
 ---
 
-# (Senior) program committee member/area chair for international conferences
+## (Senior) program committee member/area chair for international conferences
 
-- ***2022***, *Lu Yin*, Research paper [Fusing Many Tickets into One:  A Performance Booster for Sparse Neural Network Training](https://openreview.net/forum?id=HeZlJPLoqgq).
-- ***2022***, *Tianjin Huang*, Research paper [You Can Have Better Graph Neural Networks by Not Training Weights at All: Finding Untrained Graph Tickets.]
+*2022: NeuIPS, ICLR, ICML, IJCAI, CVPR, ICIP (area chair)...
+*2021: NeurIPS, ICML, AISTATS
+*2020: ECMLPKDD (session chair), IDA
