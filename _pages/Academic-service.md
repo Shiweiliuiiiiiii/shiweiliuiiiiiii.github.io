@@ -11,4 +11,4 @@ author_profile: true
 
 *2021: NeurIPS, ICML, AISTATS
 
-*2020: ECMLPKDD (session chair), IDA
+*2020: ECMLPKDD (session chair)
