@@ -19,6 +19,7 @@ Machine Learning, Deep Learning, Sparse Neural Network Training, Sparsity, Compu
 
 News
 ======
+***7/2022***, Our paper, “A Brain-inspired Algorithm for Training Highly Sparse Neural Networks” got accepted for publication in **Machine Learning Journal (ECML-PKDD 2022 journal track)**. Find more information [here](https://arxiv.org/abs/1903.07138). 
 
 ***5/2022***, one paper got accepted by **UAI 2022** (link - [here](https://openreview.net/forum?id=HeZlJPLoqgq)).
 
