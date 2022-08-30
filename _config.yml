@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Shiwei Liu"
-description              : &description "Ph.D. Candidate at Eindhoven University of Technology (TU/e) [Homepage](https://research.tue.nl/en/persons/shiwei-liu)"
+description              : &description "A postdoctoral fellow in the VITA group and the Institute for Foundations of Machine Learning (IFML) at UT Austin, [Homepage](https://research.tue.nl/en/persons/shiwei-liu)"
 url                      : https://Shiweiliuiiiiiii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Shiweiliuiiiiiii/Shiweiliuiiiiiii.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shiwei Liu"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate at Eindhoven University of Technology"
-  location         : "The Netherlands"
+  bio              : "A postdoctoral fellow in the VITA group and the Institute for Foundations of Machine Learning (IFML) at UT Austin"
+  location         : "Austin, USA"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=73IbXtsAAAAJ&hl=en&authuser=1"
-  email            : "s.liu3@tue.nl"
+  email            : "s.liu3@tue.nl, shiwei.liu@austin.utexas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
