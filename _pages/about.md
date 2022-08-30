@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a Ph.D. candidate of machine learning in the data mining group at the Eindhoven University of Technology (TU/e), the
-Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Decebal Constantin Mocanu](https://people.utwente.nl/d.c.mocanu). Before I moved to the Netherlands, I
-obtained my master degree at Harbin Institute of Technology (Shenzhen). 
+Hi, I am a postdoctoral fellow in the [VITA group](https://vita-group.github.io/) and the Institute for Foundations of Machine Learning ([IFML](https://www.ifml.institute/)) at UT Austin, under the supervision of [Atlas Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). I abtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Decebal Constantin Mocanu](https://people.utwente.nl/d.c.mocanu). Before I moved to the Netherlands, I obtained my master degree at Harbin Institute of Technology (Shenzhen). 
 
 
 Research Interests
@@ -19,6 +17,8 @@ Machine Learning, Deep Learning, Sparse Neural Network Training, Sparsity, Compu
 
 News
 ======
+***8/2022***, I have moved to Austin, Texas, USA as postdoctoral fellow in the [VITA group](https://vita-group.github.io/) and the Institute for Foundations of Machine Learning ([IFML](https://www.ifml.institute/)) at UT Austin, under the supervision of [Atlas Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). I am grateful that I have received a warm welcome. 
+
 ***7/2022***, Our paper, “A Brain-inspired Algorithm for Training Highly Sparse Neural Networks” got accepted for publication in **Machine Learning Journal (ECML-PKDD 2022 journal track)**. Find more information [here](https://arxiv.org/abs/1903.07138). 
 
 ***5/2022***, one paper got accepted by **UAI 2022** (link - [here](https://openreview.net/forum?id=HeZlJPLoqgq)).
