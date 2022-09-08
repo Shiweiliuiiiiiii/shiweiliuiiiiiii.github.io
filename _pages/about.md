@@ -21,7 +21,7 @@ News
 
 ***7/2022***, Our paper, “A Brain-inspired Algorithm for Training Highly Sparse Neural Networks” got accepted for publication in **Machine Learning Journal (ECML-PKDD 2022 journal track)**. Find more information [here](https://arxiv.org/abs/1903.07138). 
 
-***5/2022***, one paper got accepted by **UAI 2022** (link - [here](https://openreview.net/forum?id=HeZlJPLoqgq)).
+***5/2022***, our *Sup-tickets* paper got accepted by **UAI 2022** (link - [here](https://openreview.net/forum?id=HeZlJPLoqgq)).
 
 ***4/2022***, our tutorial "Sparse Neural Networks Training" has been accepted at **ECMLPKDD 2022** (link - [here](https://sites.google.com/view/ecmlpkdd2022--sparse-training/home)).
 
