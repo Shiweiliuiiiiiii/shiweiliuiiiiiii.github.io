@@ -15,4 +15,4 @@ author_profile: true
 
 ## reviewers for journals
 
-* IEEE Transactions on Evolutionary Computation, ACM Transactions On Intelligent Systems And Technology
+* TPAMI, IEEE Transactions on Evolutionary Computation, ACM Transactions On Intelligent Systems And Technology...
