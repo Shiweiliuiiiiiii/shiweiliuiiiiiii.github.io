@@ -22,8 +22,6 @@ News
 
 ***25/8/2022***, I have moved to Austin, Texas, USA as postdoctoral fellow in the [VITA group](https://vita-group.github.io/) and the Institute for Foundations of Machine Learning ([IFML](https://www.ifml.institute/)) at UT Austin, under the supervision of [Atlas Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). I am grateful that I have received a warm welcome. 
 
-***8/2022***, I have moved to Austin, Texas, USA as postdoctoral fellow in the [VITA group](https://vita-group.github.io/) and the Institute for Foundations of Machine Learning ([IFML](https://www.ifml.institute/)) at UT Austin, under the supervision of [Atlas Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). I am grateful that I have received a warm welcome. 
-
 ***7/2022***, Our paper, “A Brain-inspired Algorithm for Training Highly Sparse Neural Networks” got accepted for publication in **Machine Learning Journal (ECML-PKDD 2022 journal track)**. Find more information [here](https://arxiv.org/abs/1903.07138). 
 
 ***5/2022***, our *Sup-tickets* paper got accepted by **UAI 2022** (link - [here](https://openreview.net/forum?id=HeZlJPLoqgq)).
