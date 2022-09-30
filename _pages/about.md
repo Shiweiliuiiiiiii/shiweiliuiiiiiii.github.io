@@ -51,7 +51,9 @@ Experience
 
 |         Period        | Degree |                        Venue                      |
 |:---------------------:|:------:|:-------------------------------------------------------:|
-| March. 2018 - present  | Ph.D.            | Eindhoven University of Technology            |
-| June. 2021 - Nov. 2021 | Research Intern  | JD Acedemy Explore                            |
-| July. 2015 - Sep. 2017 | M.Sc.            | Harbin Institute of Technology |
-| July. 2011 - Sep. 2015 | B.Sc.            | North University of China |
+| Aug. 2022 - Present   | Postdoc          | The University of Texas at Austin             |
+| Mar. 2022 - Aug. 2022 | Postdoc          | Eindhoven University of Technology            |
+| Mar. 2018 - Mar. 2022 | Ph.D.            | Eindhoven University of Technology            |
+| Jun. 2021 - Nov. 2021 | Research Intern  | JD Acedemy Explore                            |
+| Jul. 2015 - Sep. 2017 | M.Sc.            | Harbin Institute of Technology |
+| Jul. 2011 - Sep. 2015 | B.Sc.            | North University of China |
