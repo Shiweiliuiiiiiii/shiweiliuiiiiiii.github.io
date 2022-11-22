@@ -1,7 +1,7 @@
 ---
 title: "Selfish sparse rnn training"
 collection: publications
-permalink: /publication/ICML2021-2021-05-20-In-Time-Over-Parameterization
+permalink: /publication/ICML2021-2021-05-20-Selfish-Sparse-RNN-Training.md
 excerpt: '**Shiwei Liu**, Decebal Constantin Mocanu, Yulong Pei, Mykola Pechenizkiy'
 date: 2021-05-20
 venue: 'Proceedings of Machine Learning Research, ICML'
