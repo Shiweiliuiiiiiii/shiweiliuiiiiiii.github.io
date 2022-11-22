@@ -4,7 +4,7 @@ collection: conference publications
 permalink: /publication/NeurIPS2021-2021-9-20-SparseTraining
 excerpt: '**Shiwei Liu**, Tianlong Chen, Xiaohan Chen, Zahra Atashgahi, Lu Yin, Huanyu Kou, Li Shen, Mykola Pechenizkiy, Zhangyang Wang, Decebal Constantin Mocanu'
 date: 2021-09-20
-venue: 'The International Conference on Learning Representations, ICLR'
+venue: 'Conference on Neural Information Processing Systems (NeurIPS 2021)'
 paperurl: 'https://arxiv.org/pdf/2106.10404.pdf'
 ---
 
