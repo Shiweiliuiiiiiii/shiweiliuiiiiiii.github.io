@@ -19,17 +19,17 @@ News
 ======
 
 
-***11/2022***, our *Lottery-Pools* paper got accepted in **AAAI 2023** (link - [here](https://arxiv.org/abs/2208.10842)).
+***11/2022***, our [Lottery-Pools](https://arxiv.org/abs/2208.10842) paper got accepted in **AAAI 2023**.
 
-***9/2022***, our paper of sparse large kernel on time series got accepted in **NeurIPs 2022** (link - [here](https://openreview.net/pdf/8b1cb7447bd0d6fdf2c782e6a4754903c1272fad.pdf)).
+***9/2022***, our paper of [sparse large kernel on time series](https://openreview.net/pdf/8b1cb7447bd0d6fdf2c782e6a4754903c1272fad.pdf) got accepted in **NeurIPs 2022**.
 
 ***25/8/2022***, I have moved to Austin, Texas, USA as postdoctoral fellow in the [VITA group](https://vita-group.github.io/) and the Institute for Foundations of Machine Learning ([IFML](https://www.ifml.institute/)) at UT Austin, under the supervision of [Atlas Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). 
 
-***7/2022***, our paper, “A Brain-inspired Algorithm for Training Highly Sparse Neural Networks” got accepted for publication in **Machine Learning Journal (ECML-PKDD 2022 journal track)** (link -  [here](https://arxiv.org/abs/1903.07138)). 
+***7/2022***, our paper, [Brain-inspired Highly Sparse NN](https://arxiv.org/abs/1903.07138) got accepted for publication in **Machine Learning Journal**. 
 
-***5/2022***, our *Sup-tickets* paper got accepted by **UAI 2022** (link - [here](https://openreview.net/forum?id=HeZlJPLoqgq)).
+***5/2022***, our [Sup-Tickets](https://openreview.net/forum?id=HeZlJPLoqgq) got accepted by **UAI 2022**.
 
-***4/2022***, our tutorial "Sparse Neural Networks Training" has been accepted at **ECMLPKDD 2022** (link - [here](https://sites.google.com/view/ecmlpkdd2022--sparse-training/home)).
+***4/2022***, our tutorial [Sparse Neural Networks Training](https://sites.google.com/view/ecmlpkdd2022--sparse-training/home) has been accepted at **ECMLPKDD 2022**.
 
 ***6/4/2022***, I got my PhD with cum laude (distinguished thesis). 
 
