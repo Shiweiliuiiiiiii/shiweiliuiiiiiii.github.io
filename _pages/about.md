@@ -18,10 +18,11 @@ Machine Learning, Deep Learning, Sparse Neural Network Training, Sparsity, Compu
 News
 ======
 
+***11/2022***, our [Untrained GNNs](https://openreview.net/forum?id=dF6aEW3_62O) paper got accepted by **Learning on Graphs Conference (LOG) 2022 (*Spotlight*)**.
 
 ***11/2022***, our [Lottery-Pools](https://arxiv.org/abs/2208.10842) paper got accepted in **AAAI 2023**.
 
-***9/2022***, our paper of [sparse large kernel on time series](https://openreview.net/pdf/8b1cb7447bd0d6fdf2c782e6a4754903c1272fad.pdf) got accepted in **NeurIPs 2022**.
+***9/2022***, our [sparse large kernel on time series](https://openreview.net/pdf/8b1cb7447bd0d6fdf2c782e6a4754903c1272fad.pdf) paper got accepted in **NeurIPs 2022**.
 
 ***25/8/2022***, I have moved to Austin, Texas, USA as postdoctoral fellow in the [VITA group](https://vita-group.github.io/) and the Institute for Foundations of Machine Learning ([IFML](https://www.ifml.institute/)) at UT Austin, under the supervision of [Atlas Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). 
 
