@@ -18,7 +18,7 @@ Machine Learning, Deep Learning, Sparse Neural Network Training, Sparsity, Compu
 News
 ======
 
-***11/2022***, our [Untrained GNNs](https://openreview.net/forum?id=dF6aEW3_62O) paper got accepted by **Learning on Graphs Conference (LOG) 2022 (*Spotlight*)**.
+***11/2022***, our [Untrained GNNs](https://openreview.net/forum?id=dF6aEW3_62O) paper got accepted by **[Learning on Graphs Conference (LOG)](https://logconference.org/) 2022 (*Spotlight*)**.
 
 ***11/2022***, our [Lottery-Pools](https://arxiv.org/abs/2208.10842) paper got accepted in **AAAI 2023**.
 
