@@ -18,7 +18,7 @@ Machine Learning, Deep Learning, Sparse Neural Network Training, Sparsity, Compu
 News
 ======
 
-***11/2022***, our [Untrained GNNs](https://openreview.net/forum?id=dF6aEW3_62O) paper got **Best Paper Award** from [Learning on Graphs Conference (LOG)](https://logconference.org/).
+***12/2022***, our [Untrained GNNs](https://openreview.net/forum?id=dF6aEW3_62O) paper received the **Best Paper Award** from LoG 2022.
 
 ***11/2022***, our [Lottery-Pools](https://arxiv.org/abs/2208.10842) paper got accepted in **AAAI 2023**.
 
@@ -38,15 +38,15 @@ News
 
 ***2/2022***, I am honored to receive the postdoctoral fellowship at [IFML](https://www.ifml.institute/) of The University of Texas at Austin.
 
-***1/2022***, (2/3) two of my first-author papers are accepted by **ICLR 2022**: [the unreasonable effectiveness of random pruning](https://openreview.net/forum?id=VBZJ_3tz-t) and [FreeTickets Ensemble](https://openreview.net/forum?id=RLtqs6pzj1-).
+***1/2022***, (2/3) two of my first-author papers are accepted by **ICLR 2022**: [Random pruning](https://openreview.net/forum?id=VBZJ_3tz-t) and [FreeTickets](https://openreview.net/forum?id=RLtqs6pzj1-).
 
 ***12/2021***, I receive the "outstanding intern" honour in JD Acedemy Explore.
 
-***9/2021***, (1/1) one of my first-author paper gets accepted by **NeurIPs 2021**: [Sparse Training via Boosting Pruning Plasticity with Neuroregeneration](https://openreview.net/forum?id=MNVjrDpu6Yo).
+***9/2021***, (1/1) one of my first-author paper gets accepted by **NeurIPs 2021**: [GraNet](https://openreview.net/forum?id=MNVjrDpu6Yo).
 
 ***6/2021***, I moved to Beijing, China for my internship at JD Acedemy Explore, under supervision of [Li Shen](https://sites.google.com/site/mathshenli/home) and [Dacheng Tao](https://scholar.google.com/citations?hl=en&user=RwlJNLcAAAAJ&view_op=list_works&sortby=pubdate).
 
-***5/2021***, (2/2) two of my first-author papers are accepted by **ICML 2021**: [In-Time Over-Parameterization](http://proceedings.mlr.press/v139/liu21y.html) and [Selfish Sparse RNN Training](https://proceedings.mlr.press/v139/liu21p).
+***5/2021***, (2/2) two of my first-author papers are accepted by **ICML 2021**: [In-Time Over-Parameterization](http://proceedings.mlr.press/v139/liu21y.html) and [Selfish RNN](https://proceedings.mlr.press/v139/liu21p).
 
 
 Experience
