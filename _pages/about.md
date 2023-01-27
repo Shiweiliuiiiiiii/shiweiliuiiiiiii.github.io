@@ -18,7 +18,7 @@ Machine Learning, Deep Learning, Sparse Neural Network Training, Sparsity, Compu
 News
 ======
 
-***1/2022***, 4 papers got accepted in **ICLR 2023**, [Ramanujan Graph PaI](https://openreview.net/forum?id=uVcDssQff_) (oral top-5%), [Sparsity May Cay:sob:](https://openreview.net/forum?id=J6F3lLg4Kdp) (spotlight top-25%), [Random MoE](https://openreview.net/forum?id=w1hwFUb_81) (spotlight top-25%), [SLaK:51x51Conv](https://openreview.net/forum?id=bXNl-myZkJl). Looking forward to meeting in Rwanda. 
+***1/2022***, 4 papers got accepted in **ICLR 2023**, [Ramanujan Graph PaI](https://openreview.net/forum?id=uVcDssQff_) (**oral top-5%**), [Sparsity May Cay:sob:](https://openreview.net/forum?id=J6F3lLg4Kdp) (**spotlight top-25%**), [Random MoE](https://openreview.net/forum?id=w1hwFUb_81) (**spotlight top-25%**), [SLaK:51x51 Large Conv](https://openreview.net/forum?id=bXNl-myZkJl). Looking forward to meeting in Rwanda. 
 
 ***12/2022***, our [Untrained GNNs](https://openreview.net/forum?id=dF6aEW3_62O) paper received the **Best Paper Award** from LoG 2022.
 
