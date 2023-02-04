@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a postdoctoral fellow in the [VITA group](https://vita-group.github.io/) and the Institute for Foundations of Machine Learning ([IFML](https://www.ifml.institute/)) at UT Austin, under the supervision of [Atlas Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). I abtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Decebal Constantin Mocanu](https://people.utwente.nl/d.c.mocanu). Before I moved to the Netherlands, I obtained my master degree at Harbin Institute of Technology (Shenzhen). 
+Hi, I am a postdoctoral fellow in the [VITA group](https://vita-group.github.io/) and the Institute for Foundations of Machine Learning ([IFML](https://www.ifml.institute/)) at UT Austin, under the supervision of [Atlas Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). I abtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Decebal Constantin Mocanu](https://people.utwente.nl/d.c.mocanu). 
 
 
 Research Interests
@@ -58,8 +58,5 @@ Experience
 |         Period        | Degree |                        Venue                      |
 |:---------------------:|:------:|:-------------------------------------------------------:|
 | Aug. 2022 - Present   | Postdoc          | The University of Texas at Austin             |
-| Mar. 2022 - Aug. 2022 | Postdoc          | Eindhoven University of Technology            |
-| Mar. 2018 - Mar. 2022 | Ph.D.            | Eindhoven University of Technology            |
 | Jun. 2021 - Nov. 2021 | Research Intern  | JD Acedemy Explore                            |
-| Jul. 2015 - Sep. 2017 | M.Sc.            | Harbin Institute of Technology |
-| Jul. 2011 - Sep. 2015 | B.Sc.            | North University of China |
+| Mar. 2018 - Mar. 2022 | Ph.D.            | Eindhoven University of Technology            |
