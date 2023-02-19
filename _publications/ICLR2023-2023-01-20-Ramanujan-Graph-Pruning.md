@@ -1,7 +1,7 @@
 ---
 title: "Revisiting Pruning at Initialization Through The Lends of Ramanujan Graph"
 collection: conference publications
-permalink: /publication/ICLR2023-2023-01-20-Sparsity-May-Cry-Benchmark
+permalink: /publication/ICLR2023-2023-01-20-Ramanujan-Graph-Pruning
 excerpt: 'Duc N.M Hoang, Shiwei Liu, Radu Marculescu, Zhangyang Wang'
 date: 2023-01-20
 venue: 'The International Conference on Learning Representations, ICLR, Notable-Top-5% Oral.'
