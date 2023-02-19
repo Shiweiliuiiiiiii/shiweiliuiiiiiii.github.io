@@ -4,7 +4,7 @@ collection: conference publications
 permalink: /publication/ICLR2023-2023-01-20-Ramanujan-Graph-Pruning
 excerpt: 'Duc N.M Hoang, Shiwei Liu, Radu Marculescu, Zhangyang Wang'
 date: 2023-01-20
-venue: 'The International Conference on Learning Representations, ICLR, Notable-Top-5% Oral.'
+venue: 'The International Conference on Learning Representations, ICLR, **Notable-Top-5% Oral**.'
 paperurl: 'https://openreview.net/forum?id=uVcDssQff_'
 ---
 
