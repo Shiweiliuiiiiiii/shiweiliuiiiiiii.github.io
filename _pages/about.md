@@ -58,9 +58,9 @@ Learning on Graphs Conference (LoG), 2022. **Best Paper Award**. [[Paper](https:
 
 [2] Duc N.M Hoang, **Shiwei Liu**, Radu Marculescu, Zhangyang Wang. "Revisiting Pruning at Initialization Through the Lens of Ramanujan Graph." International Conference on Learning Representations (ICLR), 2023. **Notable-Top-5% Oral**. [[Paper](https://openreview.net/forum?id=uVcDssQff_)].
 
-[3] **Shiwei Liu***, Tianlong Chen*, Zhenyu Zhang, Xuxi Chen, Tianjin Huang, AJAY KUMAR JAISWAL, and Zhangyang Wang. "Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!" International Conference on Learning Representations (ICLR), 2023. **Notable-Top-25% Spotlight**. [[Paper](https://openreview.net/forum?id=J6F3lLg4Kdp)].
+[3] **Shiwei Liu**\*, Tianlong Chen\*, Zhenyu Zhang, Xuxi Chen, Tianjin Huang, AJAY KUMAR JAISWAL, and Zhangyang Wang. "Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!" International Conference on Learning Representations (ICLR), 2023. **Notable-Top-25% Spotlight**. [[Paper](https://openreview.net/forum?id=J6F3lLg4Kdp)].
 
-[4] **Shiwei Liu**, Tianlong Chen*, Xiaohan Chen*, Xuxi Chen, Qiao Xiao, Boqian Wu, Mykola Pechenizkiy, Decebal Mocanu, and Zhangyang Wang. "More Convnets in the 2020s: Scaling Up Kernels Beyond 51x51 Using Sparsity." International Conference on Learning Representations (ICLR), 2023. [[Paper](https://arxiv.org/pdf/2207.03620.pdf)].
+[4] **Shiwei Liu**, Tianlong Chen\*, Xiaohan Chen\*, Xuxi Chen, Qiao Xiao, Boqian Wu, Mykola Pechenizkiy, Decebal Mocanu, and Zhangyang Wang. "More Convnets in the 2020s: Scaling Up Kernels Beyond 51x51 Using Sparsity." International Conference on Learning Representations (ICLR), 2023. [[Paper](https://arxiv.org/pdf/2207.03620.pdf)].
 
 [5] **Shiwei Liu**, Lu Yin, Decebal Constantin Mocanu, and Mykola Pechenizkiy. "Do We Actually Need Dense Over-Parameterization? In-Time Over-Parameterization in Sparse Training". The Thirty-Eighth International Conference on Machine Learning (ICML), PMLR, 2021. [[Paper](https://arxiv.org/abs/2102.02887)].
 
