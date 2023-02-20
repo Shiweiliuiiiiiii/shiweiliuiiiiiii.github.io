@@ -1,5 +1,5 @@
 ---
-title: "sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!"
+title: "Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!"
 collection: conference publications
 permalink: /publication/ICLR2023-2023-01-20-Sparsity-May-Cry
 excerpt: '**Shiwei Liu**\*, Tianlong Chen\*, Zhenyu Zhang, Xuxi Chen, Tianjin Huang, AJAY KUMAR JAISWAL, Zhangyang Wang'
