@@ -4,7 +4,7 @@ collection: conference publications
 permalink: /publication/ICLR2023-2023-01-20-Sparsity-May-Cry
 excerpt: '**Shiwei Liu**\*, Tianlong Chen\*, Zhenyu Zhang, Xuxi Chen, Tianjin Huang, AJAY KUMAR JAISWAL, Zhangyang Wang'
 date: 2023-01-20
-venue: 'The International Conference on Learning Representations, ICLR'
+venue: 'The International Conference on Learning Representations, ICLR, Notable-Top-25% Spotlight'
 paperurl: 'https://openreview.net/forum?id=J6F3lLg4Kdp'
 ---
 
