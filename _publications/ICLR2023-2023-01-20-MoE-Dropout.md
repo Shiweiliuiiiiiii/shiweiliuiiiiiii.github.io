@@ -4,7 +4,7 @@ collection: conference publications
 permalink: /publication/ICLR2023-2023-01-20-MoE-Dropout
 excerpt: 'Tianlong Chen, Zhenyu Zhang, AJAY KUMAR JAISWAL, **Shiwei Liu**, Zhangyang Wang'
 date: 2023-01-20
-venue: 'The International Conference on Learning Representations, ICLR, **Notable-Top-25%** **Spotlight**.'
+venue: 'The International Conference on Learning Representations, ICLR, Notable-Top-25% Spotlight.'
 paperurl: 'https://openreview.net/forum?id=w1hwFUb_81'
 ---
 
