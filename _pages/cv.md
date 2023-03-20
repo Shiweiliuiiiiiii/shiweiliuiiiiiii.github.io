@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[Download CV](https://Shiweiliuiiiiiii.github.io/files/CV.pdf)
+[Download CV](https://shiweiliuiiiiiii.github.io/files/CV.pdf)
 
