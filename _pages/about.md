@@ -18,7 +18,7 @@ Machine Learning, Deep Learning, Sparse Neural Network Training, Sparsity, Compu
 News
 ======
 
-***2/2023***, our [Feature Selection with Neuron Evolution](http://128.84.21.203/abs/2303.07200) paper has been accepted in Transactions on Machine Learning Research (TMLR).
+***2/2023***, our [Feature Selection with Neuron Evolution](http://128.84.21.203/abs/2303.07200) paper has been accepted in Transactions on Machine Learning Research (**TMLR**).
 
 ***1/2023***, 4 papers got accepted in **ICLR 2023**, [Ramanujan Graph Pruning](https://openreview.net/forum?id=uVcDssQff_) (**oral top-5%**), [Sparsity May Cry Benchmark](https://openreview.net/forum?id=J6F3lLg4Kdp) (**spotlight top-25%**), [MoE as Dropout](https://openreview.net/forum?id=w1hwFUb_81) (**spotlight top-25%**), [SLaK:51x51 Large Conv](https://openreview.net/forum?id=bXNl-myZkJl). Looking forward to meeting and having fun in Rwanda. 
 
