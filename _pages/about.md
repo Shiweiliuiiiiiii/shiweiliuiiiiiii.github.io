@@ -18,7 +18,7 @@ Machine Learning, Deep Learning, Sparse Neural Network Training, Sparsity, Compu
 News
 ======
 
-***3/2023***, our [SNN Ten Lessons](https://arxiv.org/abs/2302.02596) and [Channel-Level DST](coming soon) paper has been accepted as spotlight presentations at the Sparsity in Neural Networks 2023 workshop.
+***3/2023***, our [SNN Ten Lessons](https://arxiv.org/abs/2302.02596) and [Channel-Level DST](coming soon) paper has been accepted as **spotlight** presentations at the Sparsity in Neural Networks 2023 workshop.
 
 ***2/2023***, our [Feature Selection with Neuron Evolution](http://128.84.21.203/abs/2303.07200) paper has been accepted in Transactions on Machine Learning Research (**TMLR**).
 
