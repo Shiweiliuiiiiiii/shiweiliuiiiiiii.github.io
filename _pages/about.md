@@ -17,6 +17,9 @@ Machine Learning, Deep Learning, Sparse Neural Network Training, Sparsity, Compu
 
 News
 ======
+
+***5/2023***, [STU-GAN](https://arxiv.org/abs/2203.02770) was accepted by International Journal of Computer Vision (IJCV). 
+
 ***4/2023***, 3 papers got accepted in **ICML 2023**, Instant Soup (**Oral**), Large Kernel Distillation, and Graph Ladling.
 
 ***3/2023***, our [SNN Ten Lessons](https://arxiv.org/abs/2302.02596) and [Channel-Level DST](coming soon) paper has been accepted as **spotlight** presentations at the Sparsity in Neural Networks 2023 workshop.
