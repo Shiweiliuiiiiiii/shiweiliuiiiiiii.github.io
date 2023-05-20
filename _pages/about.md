@@ -18,7 +18,7 @@ Machine Learning, Deep Learning, Sparse Neural Network Training, Sparsity, Compu
 News
 ======
 
-***5/2023***, the work I conducted during my internship at JD Academy has been accepted  was accepted by International Journal of Computer Vision (**IJCV**) - [STU-GAN](https://arxiv.org/abs/2203.02770). 
+***5/2023***, the work I conducted during my internship at JD Academy has been accepted by International Journal of Computer Vision (**IJCV**) - [STU-GAN](https://arxiv.org/abs/2203.02770). 
 
 ***4/2023***, 3 papers got accepted in **ICML 2023**, Instant Soup (**Oral**), Large Kernel Distillation, and Graph Ladling.
 
