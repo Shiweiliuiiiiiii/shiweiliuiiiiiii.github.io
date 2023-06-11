@@ -4,7 +4,7 @@ collection: conference publications
 permalink: /publication/LoG2022-2022-12-10-Untrained-GNN-Tickets
 excerpt: 'Tianjin Huang, Tianlong Chen, Meng Fang, Vlado Menkovski, Jiaxu Zhao, Lu Yin, Yulong Pei, Decebal Constantin Mocanu, Zhangyang Wang, Mykola Pechenizkiy, **Shiwei Liu**'
 date: 2022-12-10
-venue: 'Proceedings of the First Learning on Graphs Conference (LoG 2022), **Best Paper Award**.'
+venue: Proceedings of the First Learning on Graphs Conference (LoG 2022), Best Paper Award
 paperurl: 'https://openreview.net/forum?id=dF6aEW3_62O'
 ---
 
