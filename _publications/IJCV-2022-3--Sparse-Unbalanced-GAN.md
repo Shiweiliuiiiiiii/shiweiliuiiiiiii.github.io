@@ -1,7 +1,7 @@
 ---
 title: "Don’t Be So Dense: Sparse-to-Sparse GAN Training Without Sacrificing Performance"
 collection: arxiv preprint
-permalink: /publication/2022-3--Sparse-Unbalanced-GAN
+permalink: /publication/IJCV-2022-3--Sparse-Unbalanced-GAN
 excerpt: '**Shiwei Liu**, Yuesong Tian, Tianlong Chen, Li Shen'
 date: 2023-5-5
 venue: 'International Journal of Computer Vision (IJCV)'
