@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a postdoctoral fellow in the [VITA group](https://vita-group.github.io/) and the Institute for Foundations of Machine Learning ([IFML](https://www.ifml.institute/)) at UT Austin, under the supervision of [Atlas Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). I abtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Decebal Constantin Mocanu](https://people.utwente.nl/d.c.mocanu). 
+Hi, I am a postdoctoral fellow in the [VITA group](https://vita-group.github.io/) and the Institute for Foundations of Machine Learning ([IFML](https://www.ifml.institute/)) at UT Austin, under the supervision of [Atlas Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). I obtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Decebal Constantin Mocanu](https://people.utwente.nl/d.c.mocanu). 
 
 
 Research Interests
@@ -17,6 +17,8 @@ Machine Learning, Deep Learning, Sparse Neural Network Training, Sparsity, Compu
 
 News
 ======
+***6/2023***, I will give an invited talk at [CTSTA 2023 workshop](https://pldi23.sigplan.org/home/ctsta-2023#event-overview) on the 18th of June in Orlando, USA.        
+
 ***6/2023***, two papers got accepted at **ECMLPKDD 2023**: [Robust overfitting](), [Debiased Sparse Training](). 
 
 ***5/2023***, the work I conducted during my internship at JD Academy has been accepted by International Journal of Computer Vision (**IJCV**) - [STU-GAN](https://arxiv.org/abs/2203.02770). 
