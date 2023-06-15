@@ -21,7 +21,7 @@ News
 
 ***6/2023***, two papers got accepted at **ECMLPKDD 2023**: [Robust overfitting](), [Debiased Sparse Training](). 
 
-***5/2023***, the work I conducted during my internship at JD Academy has been accepted by International Journal of Computer Vision (**IJCV**) - [STU-GAN](https://arxiv.org/abs/2203.02770). 
+***5/2023***, the work I conducted during my internship at JD Academy has been accepted by International Journal of Computer Vision (**IJCV**) - [STU-GAN](https://trebuchet.public.springernature.app/get_content/915ad351-2ac7-4b41-ae5d-e2ac3632a84c). 
 
 ***4/2023***, 3 papers got accepted in **ICML 2023**, Instant Soup (**Oral**), Large Kernel Distillation, and Graph Ladling.
 
