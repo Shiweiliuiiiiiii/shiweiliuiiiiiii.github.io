@@ -17,7 +17,7 @@ Machine Learning, Deep Learning, Sparse Neural Network Training, Sparsity, Compu
 
 News
 ======
-***6/2023***, I will give an invited talk at [CTSTA 2023 workshop](https://pldi23.sigplan.org/home/ctsta-2023#event-overview) on the 18th of June in Orlando, USA.        
+***6/2023***, I will give an invited talk at [PLDI 2023](https://pldi23.sigplan.org/) - [CTSTA 2023 workshop](https://pldi23.sigplan.org/home/ctsta-2023#event-overview) on the 18th of June in Orlando, USA.        
 
 ***6/2023***, two papers got accepted at **ECMLPKDD 2023**: [Robust overfitting](), [Debiased Sparse Training](). 
 
