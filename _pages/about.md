@@ -23,7 +23,7 @@ News
 
 ***5/2023***, the work I conducted during my internship at JD Academy has been accepted by International Journal of Computer Vision (**IJCV**) - [STU-GAN](https://trebuchet.public.springernature.app/get_content/915ad351-2ac7-4b41-ae5d-e2ac3632a84c). 
 
-***4/2023***, 3 papers got accepted in **ICML 2023**, Instant Soup (**Oral**), Large Kernel Distillation, and Graph Ladling.
+***4/2023***, 3 papers got accepted in **ICML 2023**, [Instant Soup](https://arxiv.org/abs/2306.10460) (**Oral**), [Large Kernel Distillation](https://arxiv.org/abs/2305.19412), and [Graph Ladling](https://arxiv.org/abs/2306.10466).
 
 ***3/2023***, our [SNN Ten Lessons](https://arxiv.org/abs/2302.02596) and [Channel-Level DST](https://arxiv.org/pdf/2305.19454.pdf) paper has been accepted as **spotlight** presentations at the **SNN workshop**.
 
