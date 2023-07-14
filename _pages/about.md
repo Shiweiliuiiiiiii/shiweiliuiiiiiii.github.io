@@ -17,9 +17,11 @@ Machine Learning, Deep Learning, Sparse Neural Network Training, Sparsity, Compu
 
 News
 ======
+***7/2023***, one paper [Flatness-aware Continual Learning]() got accepted at **ICCV 2023**. 
+
 ***6/2023***, I will give an invited talk at [PLDI 2023](https://pldi23.sigplan.org/) - [CTSTA 2023 workshop](https://pldi23.sigplan.org/home/ctsta-2023#event-overview) on the 18th of June in Orlando, USA.        
 
-***6/2023***, two papers got accepted at **ECMLPKDD 2023**: [Robust overfitting](), [Debiased Sparse Training](). 
+***6/2023***, two papers got accepted at **ECMLPKDD 2023**: [Robust overfitting](https://arxiv.org/pdf/2306.14275.pdf), [Debiased Sparse Training](). 
 
 ***5/2023***, the work I conducted during my internship at JD Academy has been accepted by International Journal of Computer Vision (**IJCV**) - [STU-GAN](https://trebuchet.public.springernature.app/get_content/915ad351-2ac7-4b41-ae5d-e2ac3632a84c). 
 
