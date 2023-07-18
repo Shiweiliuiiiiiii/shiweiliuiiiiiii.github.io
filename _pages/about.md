@@ -10,6 +10,7 @@ redirect_from:
 
 Hi, I am a postdoctoral fellow in the [VITA group](https://vita-group.github.io/) and the Institute for Foundations of Machine Learning ([IFML](https://www.ifml.institute/)) at UT Austin, under the supervision of [Atlas Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). I obtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Decebal Constantin Mocanu](https://people.utwente.nl/d.c.mocanu). 
 
+**I'm on the job market and looking for full-time research positions.**
 
 Research Interests
 ======
