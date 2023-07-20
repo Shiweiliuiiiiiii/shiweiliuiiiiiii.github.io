@@ -14,7 +14,7 @@ Hi, I am a postdoctoral fellow in the [VITA group](https://vita-group.github.io/
 
 Research Interests
 ======
-Machine Learning, Deep Learning, Sparse Neural Network Training, Sparsity, Computer Vision, Efficient Neural Network.
+Machine Learning, Deep Learning, Sparsity, Large Language Models.
 
 News
 ======
