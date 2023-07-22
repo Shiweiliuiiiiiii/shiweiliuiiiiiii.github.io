@@ -18,6 +18,8 @@ Machine Learning, Deep Learning, Sparsity, Large Language Models.
 
 News
 ======
+***7/2023***, two papers to understand the behavior of LLMs via sparsity are now on arxiv: [Essential Sparsity](https://arxiv.org/abs/2306.03805) and [Junk DNA Hypothesis]().
+
 ***7/2023***, one paper [Flatness-aware Continual Learning]() got accepted at **ICCV 2023**. 
 
 ***6/2023***, I will give an invited talk at [PLDI 2023](https://pldi23.sigplan.org/) - [CTSTA 2023 workshop](https://pldi23.sigplan.org/home/ctsta-2023#event-overview) on the 18th of June in Orlando, USA.        
