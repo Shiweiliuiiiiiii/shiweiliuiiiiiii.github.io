@@ -92,12 +92,13 @@ Honors and Awards
 🏆 Outstanding Graduate, North University of China, China
 
 
-Education
+Career
 ======
 
 
 |         Period        | Degree |                        Venue                      |
 |:---------------------:|:------:|:-------------------------------------------------------:|
-| Aug. 2022 - Present   | Postdoc          | The University of Texas at Austin             |
-| Jun. 2021 - Nov. 2021 | Research Intern  | JD Acedemy Explore                            |
-| Mar. 2018 - Mar. 2022 | Ph.D.            | Eindhoven University of Technology            |
+| Aug. 2022 - Present   | Postdoctoral Fellow  | The University of Texas at Austin         |
+| Jun. 2021 - Nov. 2021 | Research Intern      | JD Acedemy Explore                        |
+| Mar. 2018 - Mar. 2022 | Ph.D.                | Eindhoven University of Technology        |
+| Sep. 2015 - Jul. 2022 | Master               | Harbin Institute of Technology            |
