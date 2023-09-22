@@ -18,12 +18,15 @@ Machine Learning, Deep Learning, Sparsity, Large Language Models.
 
 News
 ======
+***9/2023***, 4 papers got accepted by **NeurIPS 2023**: [Channel-Level DST](https://arxiv.org/pdf/2305.19454.pdf), [Essential Sparsity](https://arxiv.org/abs/2306.03805), [Pruning Topology](), [Note-Path Balance](https://openreview.net/pdf?id=nqoxB03tzi).
+
+***9/2023***, I am grateful to receive the prestigious Newton International Fellowship from the Royal Society.
 
 ***7/2023***, one paper [Flatness-aware Continual Learning]() got accepted at **ICCV 2023**. 
 
 ***6/2023***, I will give an invited talk at [PLDI 2023](https://pldi23.sigplan.org/) - [CTSTA 2023 workshop](https://pldi23.sigplan.org/home/ctsta-2023#event-overview) on the 18th of June in Orlando, USA.        
 
-***6/2023***, two papers got accepted at **ECMLPKDD 2023**: [Robust overfitting](https://arxiv.org/pdf/2306.14275.pdf) and [Debiased Sparse Training](https://link.springer.com/chapter/10.1007/978-3-031-43415-0_19). 
+***6/2023***, 2 papers got accepted at **ECMLPKDD 2023**: [Robust overfitting](https://arxiv.org/pdf/2306.14275.pdf) and [Debiased Sparse Training](https://link.springer.com/chapter/10.1007/978-3-031-43415-0_19). 
 
 ***5/2023***, the work I conducted during my internship at JD Academy has been accepted by International Journal of Computer Vision (**IJCV**) - [STU-GAN](https://trebuchet.public.springernature.app/get_content/915ad351-2ac7-4b41-ae5d-e2ac3632a84c). 
 
