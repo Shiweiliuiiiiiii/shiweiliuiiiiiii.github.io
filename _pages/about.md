@@ -20,7 +20,7 @@ News
 ======
 ***9/2023***, 4 papers got accepted by **NeurIPS 2023**: [Channel-Level DST](https://arxiv.org/pdf/2305.19454.pdf), [Essential Sparsity](https://arxiv.org/abs/2306.03805), [Pruning Topology](), [Note-Path Balance](https://openreview.net/pdf?id=nqoxB03tzi).
 
-***9/2023***, I am grateful to receive the prestigious Newton International Fellowship from the Royal Society.
+***9/2023***, I am grateful to receive the prestigious **Newton International Fellowship** from the Royal Society.
 
 ***7/2023***, one paper [Flatness-aware Continual Learning]() got accepted at **ICCV 2023**. 
 
