@@ -22,7 +22,7 @@ News
 
 ***10/2023***, I am highly honered to receive the **Rising Star Award** from [CPAL](https://cpal.cc/) and will give a presentation at HKU on Jan 2024. 
 
-***10/2023***, our tutorial "Sparsity in Large Language Models: The New Odyssey." has been accepted by ICASSP 2024. See you in Seoul, Korea. 
+***10/2023***, our tutorial "Sparsity in Large Language Models: The New Odyssey." has been accepted by **ICASSP 2024**. See you in Seoul, Korea. 
 
 ***9/2023***, 4 papers got accepted by **NeurIPS 2023**: [Channel-Level DST](https://arxiv.org/pdf/2305.19454.pdf), [Essential Sparsity](https://arxiv.org/abs/2306.03805), [Pruning Topology](), [Note-Path Balance](https://openreview.net/pdf?id=nqoxB03tzi).
 
