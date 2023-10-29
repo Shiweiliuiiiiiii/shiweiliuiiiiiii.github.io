@@ -77,28 +77,29 @@ News
 
 Selected Publications
 ======
-[1] Tianjin Huang, Tianlong Chen, Meng Fang, Vlado Menkovski, Jiaxu Zhao, Lu Yin, Yulong Pei, Decebal Constantin Mocanu, Zhangyang Wang, Mykola Pechenizkiy, **Shiwei Liu**. "You Can Have Better Graph Neural Networks by Not Training Weights at All: Finding Untrained Graph Tickets."
+[1] **Shiwei Liu**, Lu Yin, Decebal Constantin Mocanu, and Mykola Pechenizkiy. "Do We Actually Need Dense Over-Parameterization? In-Time Over-Parameterization in Sparse Training". The Thirty-Eighth International Conference on Machine Learning (ICML), PMLR, 2021. [[Paper](https://arxiv.org/abs/2102.02887)].
+
+[2] Lu Yin, You Wu, Zhenyu Zhang, Cheng-Yu Hsieh, Yaqing Wang, Yiling Jia, Mykola Pechenizkiy, Yi Liang, Zhangyang Wang, **Shiwei Liu**. "Outlier Weighed Layerwise Sparsity (OWL): A Missing Secret Sauce for Pruning LLMs to High Sparsity." arXiv preprint arXiv:2310.05175.
+
+[3] **Shiwei Liu**, Tianlong Chen\*, Xiaohan Chen\*, Xuxi Chen, Qiao Xiao, Boqian Wu, Mykola Pechenizkiy, Decebal Mocanu, and Zhangyang Wang. "More Convnets in the 2020s: Scaling Up Kernels Beyond 51x51 Using Sparsity." International Conference on Learning Representations (ICLR), 2023. [[Paper](https://arxiv.org/pdf/2207.03620.pdf)].
+
+[4] **Shiwei Liu**\*, Tianlong Chen\*, Zhenyu Zhang, Xuxi Chen, Tianjin Huang, AJAY KUMAR JAISWAL, and Zhangyang Wang. "Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!" International Conference on Learning Representations (ICLR), 2023. **Notable-Top-25% Spotlight**. [[Paper](https://openreview.net/forum?id=J6F3lLg4Kdp)].
+
+[5] Tianjin Huang, Tianlong Chen, Meng Fang, Vlado Menkovski, Jiaxu Zhao, Lu Yin, Yulong Pei, Decebal Constantin Mocanu, Zhangyang Wang, Mykola Pechenizkiy, **Shiwei Liu**. "You Can Have Better Graph Neural Networks by Not Training Weights at All: Finding Untrained Graph Tickets."
 Learning on Graphs Conference (LoG), 2022. **Best Paper Award**. [[Paper](https://openreview.net/forum?id=dF6aEW3_62O)].
 
-[2] Duc N.M Hoang, **Shiwei Liu**, Radu Marculescu, Zhangyang Wang. "Revisiting Pruning at Initialization Through the Lens of Ramanujan Graph." International Conference on Learning Representations (ICLR), 2023. **Notable-Top-5% Oral**. [[Paper](https://openreview.net/forum?id=uVcDssQff_)].
-
-[3] **Shiwei Liu**\*, Tianlong Chen\*, Zhenyu Zhang, Xuxi Chen, Tianjin Huang, AJAY KUMAR JAISWAL, and Zhangyang Wang. "Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!" International Conference on Learning Representations (ICLR), 2023. **Notable-Top-25% Spotlight**. [[Paper](https://openreview.net/forum?id=J6F3lLg4Kdp)].
-
-[4] **Shiwei Liu**, Tianlong Chen\*, Xiaohan Chen\*, Xuxi Chen, Qiao Xiao, Boqian Wu, Mykola Pechenizkiy, Decebal Mocanu, and Zhangyang Wang. "More Convnets in the 2020s: Scaling Up Kernels Beyond 51x51 Using Sparsity." International Conference on Learning Representations (ICLR), 2023. [[Paper](https://arxiv.org/pdf/2207.03620.pdf)].
-
-[5] **Shiwei Liu**, Lu Yin, Decebal Constantin Mocanu, and Mykola Pechenizkiy. "Do We Actually Need Dense Over-Parameterization? In-Time Over-Parameterization in Sparse Training". The Thirty-Eighth International Conference on Machine Learning (ICML), PMLR, 2021. [[Paper](https://arxiv.org/abs/2102.02887)].
 
 Honors and Awards  
 ======
+🏆 Rising Star Award, Conference on Parsimony and Learning (CPAL)
+
+🏆 Best Ph.D. Dissertation Runner-up Award, Informatics Europe 2023
+
 🏆 Best Paper Award, Learning on Graphs Conference (LoG 2022)
 
 🏆 Cum Laude (distinguished Ph.D. thesis), Eindhoven University of Technology (TU/e)
 
 🏆 Outstanding Intern, JD Explore Academy
-
-🏆 IFML Postdoctoral Fellowship, UT Austin, US
-
-🏆 Outstanding Graduate, North University of China, China
 
 
 Career
@@ -107,7 +108,7 @@ Career
 
 |         Period        | Degree |                        Venue                      |
 |:---------------------:|:------:|:-------------------------------------------------------:|
-| Aug. 2022 - Present   | Postdoctoral Fellow  | The University of Texas at Austin         |
-| Jun. 2021 - Nov. 2021 | Research Intern      | JD Acedemy Explore                        |
+| Jan. 2024 - Present   | Newton International Fellow | The University of Oxford |
+| Aug. 2022 - Oct. 2023 | Postdoctoral Fellow  | The University of Texas at Austin         |
 | Mar. 2018 - Mar. 2022 | Ph.D.                | Eindhoven University of Technology        |
 | Sep. 2015 - Jul. 2022 | Master               | Harbin Institute of Technology            |
