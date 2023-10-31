@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I will join the University of Oxford as a [Newton International Fellow](https://royalsociety.org/grants-schemes-awards/grants/newton-international/) in 2024. Previously, I was a postdoctoral fellow in the [VITA group](https://vita-group.github.io/) funded by [IFML](https://www.ifml.institute/) at UT Austin, under the supervision of [Atlas Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). I obtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Decebal Constantin Mocanu](https://people.utwente.nl/d.c.mocanu). 
-
- <font color="red"> I'm on the job market and looking for full-time research positions. </font>  My CV is [here](https://github.com/Shiweiliuiiiiiii/Shiweiliuiiiiiii.github.io/blob/master/files/CV.pdf). 
+Hi, I will join the University of Oxford as a [Newton International Fellow](https://royalsociety.org/grants-schemes-awards/grants/newton-international/) in 2024. Previously, I was a postdoctoral fellow in the [VITA group](https://vita-group.github.io/) funded by [IFML](https://www.ifml.institute/) at UT Austin, under the supervision of [Atlas Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). I obtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Decebal Constantin Mocanu](https://people.utwente.nl/d.c.mocanu). My CV is [here](https://github.com/Shiweiliuiiiiiii/Shiweiliuiiiiiii.github.io/blob/master/files/CV.pdf). 
 
 Research Interests
 ======
