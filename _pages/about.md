@@ -20,7 +20,7 @@ News
 ======
 ***10/2023***, I am highly grateful to receive the **Best PhD Dissertation Runner-up Award** from the [Informatics Europe](https://www.informatics-europe.org/). 
 
-***10/2023***, I am highly honered to receive the **Rising Star Award** from [CPAL](https://cpal.cc/) and will give a presentation at HKU on Jan 2024. 
+***10/2023***, I am highly honered to receive the **Rising Star Award** from [CPAL](https://cpal.cc/) and will give a presentation at [HKU](https://www.hku.hk/) in Jan 2024. 
 
 ***10/2023***, our tutorial "Sparsity in Large Language Models: The New Odyssey." has been accepted by **ICASSP 2024**. See you in Seoul, Korea. 
 
