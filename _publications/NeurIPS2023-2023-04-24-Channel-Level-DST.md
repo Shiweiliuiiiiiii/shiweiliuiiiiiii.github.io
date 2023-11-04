@@ -1,10 +1,10 @@
 ---
 title: "Dynamic Sparsity Is Channel-Level Sparsity Learner"
-collection: pre-print
-permalink: /publication/2023-04-24-Channel-Level-DST
+collection: conference publications
+permalink: /publication/NeurIPS2023-2023-04-24-Channel-Level-DST
 excerpt: 'Lu Yin, Gen Li, Meng Fang, Li Shen, Tianjin Huang, Zhangyang Wang, Vlado Menkovski, Xiaolong Ma, Mykola Pechenizkiy, **Shiwei Liu**'
-date: 2023-04-24
-venue: 'Arxiv'
+date: 2023-9-21
+venue: 'Conference on Neural Information Processing Systems'
 paperurl: 'https://arxiv.org/pdf/2305.19454.pdf'
 ---
 
