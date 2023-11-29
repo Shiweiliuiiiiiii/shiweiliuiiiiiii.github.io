@@ -26,7 +26,7 @@ News
 
 ***9/2023***, I am grateful to receive the prestigious **Newton International Fellowship** from the British Academy and the Royal Society.
 
-***7/2023***, one paper [Flatness-aware Continual Learning]() got accepted at **ICCV 2023**. 
+***7/2023***, one paper [Flatness-aware Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf) got accepted at **ICCV 2023**. 
 
 ***6/2023***, I will give an invited talk at [PLDI 2023](https://pldi23.sigplan.org/) - [CTSTA 2023 workshop](https://pldi23.sigplan.org/home/ctsta-2023#event-overview) on the 18th of June in Orlando, USA.        
 
