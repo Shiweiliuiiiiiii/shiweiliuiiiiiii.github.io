@@ -16,6 +16,8 @@ Machine Learning, Deep Learning, Sparsity, Large Language Models.
 
 News
 ======
+***11/2023***, [Block Sparse Training](https://openreview.net/pdf?id=VP1Xrdz0Bp) accepted by [CPAL](https://cpal.cc/).
+
 ***10/2023***, I am highly grateful to receive the **Best PhD Dissertation Runner-up Award** from the [Informatics Europe](https://www.informatics-europe.org/). 
 
 ***10/2023***, I am highly honered to receive the **Rising Star Award** from [CPAL](https://cpal.cc/) and will give a presentation at [HKU](https://www.hku.hk/) in Jan 2024. 
