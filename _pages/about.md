@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I will join the University of Oxford as a [Newton International Fellow](https://royalsociety.org/grants-schemes-awards/grants/newton-international/) in 2024. Previously, I was a postdoctoral fellow in the [VITA group](https://vita-group.github.io/) funded by [IFML](https://www.ifml.institute/) at UT Austin, under the supervision of [Atlas Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). I obtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Decebal Constantin Mocanu](https://people.utwente.nl/d.c.mocanu). My CV is [here](https://github.com/Shiweiliuiiiiiii/Shiweiliuiiiiiii.github.io/blob/master/files/CV.pdf). 
+Hi, I am a [Newton International Fellow](https://royalsociety.org/grants-schemes-awards/grants/newton-international/) at University of Oxford. Previously, I was a postdoctoral fellow in the [VITA group](https://vita-group.github.io/) funded by [IFML](https://www.ifml.institute/) at UT Austin, working with [Atlas Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). I obtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Decebal Constantin Mocanu](https://people.utwente.nl/d.c.mocanu). My CV is [here](https://github.com/Shiweiliuiiiiiii/Shiweiliuiiiiiii.github.io/blob/master/files/CV.pdf). 
 
 Research Interests
 ======
@@ -16,6 +16,9 @@ Machine Learning, Deep Learning, Sparsity, Large Language Models.
 
 News
 ======
+***1/2024***, 3 papers got accepted by **ICLR 2024**: [Training-Free Sparse LLM Fine-tuning](https://arxiv.org/abs/2310.08915), [Multi-Task Vector Merging](https://arxiv.org/abs/2310.02575), [Sparse Training with Neuron Revitalization](https://openreview.net/attachment?id=60lNoatp7u&name=pdf).
+
+
 ***11/2023***, [Block Sparse Training](https://openreview.net/pdf?id=VP1Xrdz0Bp) accepted by [CPAL](https://cpal.cc/).
 
 ***10/2023***, I am highly grateful to receive the **Best PhD Dissertation Runner-up Award** from the [Informatics Europe](https://www.informatics-europe.org/). 
