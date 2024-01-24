@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shiwei Liu"
   avatar           : "profile.png"
-  bio              : "A postdoctoral fellow in the VITA group and the Institute for Foundations of Machine Learning (IFML) at UT Austin"
-  location         : "Austin, USA"
+  bio              : "I am a Newton Fellow at University of Oxford, [Homepage](https://research.tue.nl/en/persons/shiwei-liu)"
+  location         : "Oxford, UK"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=73IbXtsAAAAJ&hl=en&authuser=1"
-  email            : "s.liu3@tue.nl"
+  email            : "s.liu3@tue.nl, shiwei.liu@maths.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
