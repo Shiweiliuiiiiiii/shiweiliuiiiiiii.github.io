@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research-funds"
+title: "Research-Funds"
 permalink: /research-funds/
 author_profile: true
 ---
