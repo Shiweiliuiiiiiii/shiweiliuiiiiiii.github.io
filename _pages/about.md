@@ -16,7 +16,9 @@ Machine Learning, Deep Learning, Sparsity, Large Language Models.
 
 News
 ======
-***1/2024***, I am highly honered to receive the **Rising Star in AI** from KAUST and will give a talk at [Rising Stars in AI Symposium](https://cemse.kaust.edu.sa/ai/aii-symp-2024). 
+***1/2024***, [Q-Hitter]() got accepted by **MLSys 2024**. 
+
+***1/2024***, I am highly honored to receive the **Rising Star in AI** from KAUST and will give a talk at [Rising Stars in AI Symposium](https://cemse.kaust.edu.sa/ai/aii-symp-2024). 
 
 ***1/2024***, 3 papers got accepted by **ICLR 2024**: [Training-Free Sparse LLM Fine-tuning](https://arxiv.org/abs/2310.08915), [Multi-Task Vector Merging](https://arxiv.org/abs/2310.02575), [Sparse Training with Neuron Revitalization](https://openreview.net/attachment?id=60lNoatp7u&name=pdf).
 
