@@ -16,7 +16,7 @@ Machine Learning, Deep Learning, Sparsity, Large Language Models.
 
 News
 ======
-***1/2024***, [Q-Hitter]() got accepted by **MLSys 2024**. 
+***2/2024***, [Quantized-Sparse KV Cache]() got accepted by **MLSys 2024**. 
 
 ***1/2024***, I am highly honored to receive the **Rising Star in AI** from KAUST and will give a talk at [Rising Stars in AI Symposium](https://cemse.kaust.edu.sa/ai/aii-symp-2024). 
 
