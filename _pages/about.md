@@ -16,7 +16,7 @@ Machine Learning, Deep Learning, Sparsity, Large Language Models.
 
 News
 ======
-***4/2024***, **Tutorial:** I will give a tutorial on "Sparsity in Large Language Models: The New Odyssey." at ICASSP 2024 (14 April 2024).   
+***4/2024***, **Tutorial:** I will give a tutorial on "Sparsity in Large Language Models: The New Odyssey." at ICASSP 2024 (14 April 2024). Slide is shared [here](https://docs.google.com/presentation/d/1K_S6yJldQRzIXV80RiNObc-KbenPL7nIstXznvWIBEE/edit?usp=sharing).   
 
 ***2/2024***, [Quantized-Sparse KV Cache]() got accepted by **MLSys 2024**. 
 
