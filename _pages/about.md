@@ -16,9 +16,11 @@ Machine Learning, Deep Learning, Sparsity, Large Language Models.
 
 News
 ======
-***4/2024***, **Tutorial:** I will give a tutorial on "Sparsity in Large Language Models: The New Odyssey." at ICASSP 2024 (14 April 2024). Slide is shared [here](https://docs.google.com/presentation/d/1K_S6yJldQRzIXV80RiNObc-KbenPL7nIstXznvWIBEE/edit?usp=sharing).   
+***5/2024***, **Paper:** 5 papers got accepted by **ICML 2024**: [Layerwise Importance for LLMs](https://arxiv.org/abs/2310.05175), [LLM junk DNA] https://arxiv.org/pdf/2310.02277), [Bi-level DST](https://openreview.net/pdf?id=qbw861vueP), [KV Cache Merging](), [Saprse Cocktail](). 
 
-***2/2024***, [Quantized-Sparse KV Cache]() got accepted by **MLSys 2024**. 
+***4/2024***, **Tutorial:** I will give a tutorial on "Sparsity in Large Language Models: The New Odyssey." at ICASSP 2024 (14 April 2024). The slide is shared [here](https://docs.google.com/presentation/d/1K_S6yJldQRzIXV80RiNObc-KbenPL7nIstXznvWIBEE/edit?usp=sharing).   
+
+***2/2024***, [Q-Hitter: Quantized-Sparse KV Cache]() got accepted by **MLSys 2024**. 
 
 ***1/2024***, I am highly honored to receive the **Rising Star in AI** from KAUST and will give a talk at [Rising Stars in AI Symposium](https://cemse.kaust.edu.sa/ai/aii-symp-2024). 
 
