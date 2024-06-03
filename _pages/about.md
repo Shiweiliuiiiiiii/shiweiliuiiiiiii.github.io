@@ -22,7 +22,7 @@ News
 
 ***4/2024***, **Tutorial:** I gave a tutorial on "Sparsity in Large Language Models: The New Odyssey." at ICASSP 2024 (14 April 2024). The slide is shared [here](https://docs.google.com/presentation/d/1K_S6yJldQRzIXV80RiNObc-KbenPL7nIstXznvWIBEE/edit?usp=sharing).   
 
-***2/2024***, **Paper:** [Q-Hitter: Quantized-Sparse KV Cache]() got accepted by **MLSys 2024**. 
+***2/2024***, **Paper:** [Q-Hitter: Quantized-Sparse KV Cache](https://proceedings.mlsys.org/paper_files/paper/2024/file/bbb7506579431a85861a05fff048d3e1-Paper-Conference.pdf) got accepted by **MLSys 2024**. 
 
 ***1/2024***, **Award:** I am highly honored to receive the **Rising Star in AI** from KAUST and will give a talk at [Rising Stars in AI Symposium](https://cemse.kaust.edu.sa/ai/aii-symp-2024). 
 
