@@ -16,6 +16,8 @@ Machine Learning, Deep Learning, Sparsity, Large Language Models.
 
 News
 ======
+***6/2024***, **Paper:** 2 papers got accepted by **Interspeech 2024**: [Sparse Multimodal from Scratch](), [Dynamic Data Pruning for Speech](). 
+
 ***5/2024***, **Competition:** Our "Edge LLMs: Edge-Device Large Language Model Competition" competition has been accepted by **NeurIPS 2024**. Edge LLM is coming! 
 
 ***5/2024***, **Paper:** 5 papers got accepted by **ICML 2024**: [Layerwise Importance for LLMs](https://arxiv.org/abs/2310.05175), [LLM Junk DNA](https://arxiv.org/pdf/2310.02277), [Bi-Level DST](https://openreview.net/pdf?id=qbw861vueP), [KV Cache Merging](), [Saprse Cocktail](). 
