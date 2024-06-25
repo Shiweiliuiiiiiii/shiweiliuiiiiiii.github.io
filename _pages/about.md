@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a [Royal Society Newton International Fellow](https://royalsociety.org/grants-schemes-awards/grants/newton-international/) at University of Oxford. Previously, I was a postdoctoral fellow in the [VITA group](https://vita-group.github.io/) funded by [IFML](https://www.ifml.institute/) at UT Austin, working with [Atlas Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). I obtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Decebal Constantin Mocanu](https://people.utwente.nl/d.c.mocanu). My CV is [here](https://github.com/Shiweiliuiiiiiii/Shiweiliuiiiiiii.github.io/blob/master/files/CV.pdf). 
+Hi, I am a [Royal Society Newton International Fellow](https://royalsociety.org/grants-schemes-awards/grants/newton-international/) at University of Oxford, a Junior Research Fellow (JRF) at Somerville College. Previously, I was a postdoctoral fellow in the [VITA group](https://vita-group.github.io/) funded by [IFML](https://www.ifml.institute/) at UT Austin, working with [Atlas Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). I obtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [Decebal Constantin Mocanu](https://people.utwente.nl/d.c.mocanu). My CV is [here](https://github.com/Shiweiliuiiiiiii/Shiweiliuiiiiiii.github.io/blob/master/files/CV.pdf). 
 
 Research Interests
 ======
@@ -16,13 +16,15 @@ Machine Learning, Deep Learning, Sparsity, Large Language Models.
 
 News
 ======
+***6/2024***, **Position:** I am very happy to be offered as a Junior Research Fellow (JRF) at [Somerville College](https://www.some.ox.ac.uk/), one of its first two women's colleges.
+
 ***6/2024***, **Talk:** I will have a talk tour around Europe at the NLP group at University of Sheffield, LTL group at University of Cambridge, and BlueNN group at University of Luxembourg.
 
 ***6/2024***, **Paper:** 2 papers got accepted by **Interspeech 2024**: [Sparse Multimodal from Scratch](), [Dynamic Data Pruning for Speech](). Coming soon.
 
-***5/2024***, **Competition:** Our "Edge LLMs: Edge-Device Large Language Model Competition" competition has been accepted by **NeurIPS 2024**. Edge LLM is coming! 
+***5/2024***, **Competition:** Our "Edge LLMs: Edge-Device Large Language Model Competition" competition has been accepted by **NeurIPS 2024**. Submission opens [Link](https://edge-llms-challenge.github.io/edge-llm-challenge.github.io/organizers).
 
-***5/2024***, **Paper:** 5 papers got accepted by **ICML 2024**: [Layerwise Importance for LLMs](https://arxiv.org/abs/2310.05175), [LLM Junk DNA](https://arxiv.org/pdf/2310.02277), [Bi-Level DST](https://openreview.net/pdf?id=qbw861vueP), [KV Cache Merging](), [Saprse Cocktail](). 
+***5/2024***, **Paper:** 5 papers got accepted by **ICML 2024**: [Layerwise Importance for LLMs](https://arxiv.org/abs/2310.05175), [LLM Junk DNA](https://arxiv.org/pdf/2310.02277), [Bi-Level DST](https://openreview.net/pdf?id=qbw861vueP), [KV Cache Merging](https://openreview.net/pdf?id=LCTmppB165#:~:text=Dis%2D%20tinct%20from%20previous%20methods,is%20averaged%20across%20all%20tokens.), [Saprse Cocktail](). 
 
 ***4/2024***, **Tutorial:** I gave a tutorial on "Sparsity in Large Language Models: The New Odyssey." at ICASSP 2024 (14 April 2024). The slide is shared [here](https://docs.google.com/presentation/d/1K_S6yJldQRzIXV80RiNObc-KbenPL7nIstXznvWIBEE/edit?usp=sharing).   
 
