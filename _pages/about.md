@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I am a [Royal Society Newton International Fellow](https://royalsociety.org/grants/newton-international/) at University of Oxford, and a Junior Research Fellow (JRF) at [Somerville College](https://www.some.ox.ac.uk/). Previously, I was a postdoctoral fellow in the VITA group funded by IFML at UT Austin, working with Atlas Wang. I obtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of Mykola Pechenizkiy and Decebal Constantin Mocanu. 
+Hi, I am an incoming group leader at Max Planck Institute for Intelligent Systems and PI at ELLIS Institute Tübingen. Currently, I am a [Royal Society Newton International Fellow](https://royalsociety.org/grants/newton-international/) at University of Oxford, and a Junior Research Fellow (JRF) at [Somerville College](https://www.some.ox.ac.uk/). Previously, I was a postdoctoral fellow in the VITA group funded by IFML at UT Austin, working with Atlas Wang. I obtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of Mykola Pechenizkiy and Decebal Constantin Mocanu. 
 
 &nbsp;
 &nbsp;
