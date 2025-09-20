@@ -25,9 +25,9 @@ Hi, I am an PI at [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/en/
 
 **Research Interests**
 ======
-My general research interests are to understand and leverage the role of low dimensionality in machine learning, whose impacts span many important topics, including but not limited to efficient training/inference of large foundation models, understanding and improving LLM reasoning, and hardware-friendly ML algorithms.
+My overarching research goal is to advance the frontiers of artificial intelligence from multiple perspectives, including but not limited to enhance the capabilities of large foundation models (pre-training and post-training), improve the efficiency and accessibility of AI, develop deeper fundamental understanding of deep learning behavior, and exploring novel architectural designs, and better data curation.
 
-**Hiring Info:** I am actively hiring self-motivated PhD students based on [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/de/jobs/phd-positions), with opportunities for joining leading universities such as ETH Zurich, University of Oxford, and others.
+**Hiring Info:** I am actively hiring self-motivated PhD students and postdocs based on [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/de/jobs/phd-positions), with opportunities for joining leading universities such as ETH Zurich, University of Oxford, and other.
 
 - [ELLIS PhD Program](https://ellis.eu/phd-postdoc)
 - [Max Planck & ETH Center for Learning Systems (CLS)](https://learning-systems.org/)  
