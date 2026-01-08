@@ -15,9 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I am an PI at [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/en/news/new-PIs-2025) and a group leader at [Max Planck Institute for Intelligent Systems](https://is.mpg.de/). Previously, I was a [Royal Society Newton International Fellow](https://royalsociety.org/grants/newton-international/) at University of Oxford, and a Junior Research Fellow (JRF) at [Somerville College](https://www.some.ox.ac.uk/). I was a postdoctoral fellow at UT Austin, working with Atlas Wang. I obtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of Mykola Pechenizkiy and Decebal Constantin Mocanu. 
-&nbsp;
-My email address is sliu(at)tue.ellis.eu
+Hi, I am an PI at [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/en/news/new-PIs-2025) and a group leader at [Max Planck Institute for Intelligent Systems](https://is.mpg.de/). Previously, I was a [Royal Society Newton International Fellow](https://royalsociety.org/grants/newton-international/) at University of Oxford, and a Junior Research Fellow (JRF) at [Somerville College](https://www.some.ox.ac.uk/). I was a postdoctoral fellow at UT Austin, working with Atlas Wang. I obtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of Mykola Pechenizkiy and Decebal Constantin Mocanu. My email address is sliu(at)tue.ellis.eu
+
 &nbsp;
 &nbsp;
 &nbsp;
