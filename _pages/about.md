@@ -8,10 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p> <small> Office S2.23<small></p>
-    <p> <small>Mathematics Institute<small></p>
-    <p> <small>University of Oxford<small></p>
+ 
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
