@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: PI
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
