@@ -6,9 +6,14 @@ nav: true
 nav_order: 3
 ---
 
-<h2>People</h2>
+## Wei-Lab
 
-<h3>PhD Students</h3>
+Wei-Lab is a research group led by **Shiwei Liu**, based at **ELLIS Institute Tübingen** and **Max Planck Institute for Intelligent Systems (MPI-IS)**.
+
+### Meet the Team
+
+#### PhD Students 
+
 <div class="row">
 
   <div class="col-sm-4 text-center">
@@ -17,16 +22,14 @@ nav_order: 3
            style="width:160px;height:160px;object-fit:cover;border-radius:50%;">
       <h4 style="margin-top:10px;">Alexander Conzelmann</h4>
     </a>
-    <p>PhD Student<br/>keywords / topic</p>
   </div>
 
   <div class="col-sm-4 text-center">
-    <a href="https://phd2-website.example" target="_blank" rel="noopener">
-      <img src="/assets/img/people/phd2.jpg" alt="PhD Student 2"
+    <a href="https://pumpkin-co.github.io/" target="_blank" rel="noopener">
+      <img src="/assets/img/people/dilixat.jpeg" alt="PhD Student 2"
            style="width:160px;height:160px;object-fit:cover;border-radius:50%;">
-      <h4 style="margin-top:10px;">PhD Student 2</h4>
+      <h4 style="margin-top:10px;">Dilxat Muhtar</h4>
     </a>
-    <p>PhD Student<br/>keywords / topic</p>
   </div>
 
   <div class="col-sm-4 text-center">
