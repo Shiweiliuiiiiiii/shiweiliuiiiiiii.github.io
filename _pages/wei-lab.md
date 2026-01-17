@@ -12,7 +12,7 @@ Wei-Lab is a research group led by **Shiwei Liu**, based at **ELLIS Institute TÃ
 
 ### Meet the Team
 
-#### PhD Students 
+<h4 style="text-align:center;">PhD Students</h4>
 
 <div class="row">
 
@@ -26,7 +26,7 @@ Wei-Lab is a research group led by **Shiwei Liu**, based at **ELLIS Institute TÃ
 
   <div class="col-sm-4 text-center">
     <a href="https://pumpkin-co.github.io/" target="_blank" rel="noopener">
-      <img src="/assets/img/people/dilixat.jpeg" alt="PhD Student 2"
+      <img src="/assets/img/people/dilixat.jpg" alt="PhD Student 2"
            style="width:160px;height:160px;object-fit:cover;border-radius:50%;">
       <h4 style="margin-top:10px;">Dilxat Muhtar</h4>
     </a>
@@ -34,11 +34,10 @@ Wei-Lab is a research group led by **Shiwei Liu**, based at **ELLIS Institute TÃ
 
   <div class="col-sm-4 text-center">
     <a href="https://phd3-website.example" target="_blank" rel="noopener">
-      <img src="/assets/img/people/phd3.jpg" alt="PhD Student 3"
+      <img src="/assets/img/people/WanqiYang.jpg" alt="PhD Student 3"
            style="width:160px;height:160px;object-fit:cover;border-radius:50%;">
-      <h4 style="margin-top:10px;">PhD Student 3</h4>
+      <h4 style="margin-top:10px;">Wanqi Yang</h4>
     </a>
-    <p>PhD Student<br/>keywords / topic</p>
   </div>
 
 </div>
