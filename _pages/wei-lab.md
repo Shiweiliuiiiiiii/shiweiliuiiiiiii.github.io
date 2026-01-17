@@ -6,13 +6,11 @@ nav: true
 nav_order: 3
 ---
 
-## Wei-Lab
 
 Wei-Lab is a research group led by **Shiwei Liu**, based at **ELLIS Institute T√ºbingen** and **Max Planck Institute for Intelligent Systems (MPI-IS)**.
 
 ### Meet the Team
 
-<h4 style="text-align:center;">PhD Students</h4>
 
 <div class="row">
 
@@ -22,6 +20,7 @@ Wei-Lab is a research group led by **Shiwei Liu**, based at **ELLIS Institute T√
            style="width:160px;height:160px;object-fit:cover;border-radius:50%;">
       <h4 style="margin-top:10px;">Alexander Conzelmann</h4>
     </a>
+    <p>PhD Student</p>
   </div>
 
   <div class="col-sm-4 text-center">
@@ -30,6 +29,7 @@ Wei-Lab is a research group led by **Shiwei Liu**, based at **ELLIS Institute T√
            style="width:160px;height:160px;object-fit:cover;border-radius:50%;">
       <h4 style="margin-top:10px;">Dilxat Muhtar</h4>
     </a>
+    <p>PhD Student</p>
   </div>
 
   <div class="col-sm-4 text-center">
@@ -38,11 +38,11 @@ Wei-Lab is a research group led by **Shiwei Liu**, based at **ELLIS Institute T√
            style="width:160px;height:160px;object-fit:cover;border-radius:50%;">
       <h4 style="margin-top:10px;">Wanqi Yang</h4>
     </a>
+    <p>PhD Student</p>
   </div>
 
 </div>
 
-<h3>Student Assistants</h3>
 <div class="row">
 
   <div class="col-sm-4 text-center">
@@ -51,7 +51,7 @@ Wei-Lab is a research group led by **Shiwei Liu**, based at **ELLIS Institute T√
            style="width:160px;height:160px;object-fit:cover;border-radius:50%;">
       <h4 style="margin-top:10px;">David Gonz√°lez-Mart√≠nez</h4>
     </a>
-    <p>Research Assistant</p>
+    <p>Student Assistant</p>
   </div>
 
   <div class="col-sm-4 text-center">
