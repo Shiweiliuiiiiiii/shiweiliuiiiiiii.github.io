@@ -9,8 +9,6 @@ nav_order: 3
 
 Wei-Lab is a research group led by **Shiwei Liu**, based at **ELLIS Institute Tübingen** and **Max Planck Institute for Intelligent Systems (MPI-IS)**.
 
-### Meet the Team
-
 
 <div class="row">
 
