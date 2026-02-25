@@ -1,23 +1,41 @@
-<div class="pub-meta-line">
-  {% if entry.venue %}
-    <span class="venue">{{ entry.venue }}</span>
-  {% endif %}
+<div class="pub-item">
 
-  {% if entry.paper %}
-    <a href="{{ entry.paper }}" class="pub-link">
-      <i class="fas fa-file-alt"></i> Paper
-    </a>
-  {% endif %}
+  <!-- Title -->
+  <div class="pub-title">
+    {% if entry.paper %}
+      <a href="{{ entry.paper }}">{{ entry.title }}</a>
+    {% else %}
+      {{ entry.title }}
+    {% endif %}
+  </div>
 
-  {% if entry.code %}
-    <a href="{{ entry.code }}" class="pub-link">
-      <i class="fab fa-github"></i> Code
-    </a>
-  {% endif %}
+  <!-- Authors -->
+  <div class="pub-authors">
+    {{ entry.author }}
+  </div>
 
-  {% if entry.models %}
-    <a href="{{ entry.models }}" class="pub-link">
-      <i class="fas fa-cubes"></i> Models
-    </a>
-  {% endif %}
+  <!-- Venue -->
+  <div class="pub-venue">
+    {% if entry.venue %}
+      {{ entry.venue }}
+    {% elsif entry.journal %}
+      {{ entry.journal }}
+    {% elsif entry.booktitle %}
+      {{ entry.booktitle }}
+    {% endif %}
+  </div>
+
+  <!-- Links -->
+  <div class="pub-links">
+    {% if entry.paper %}
+      <a href="{{ entry.paper }}"><i class="fas fa-file-alt"></i> Paper</a>
+    {% endif %}
+    {% if entry.code %}
+      <a href="{{ entry.code }}"><i class="fab fa-github"></i> Code</a>
+    {% endif %}
+    {% if entry.models %}
+      <a href="{{ entry.models }}"><i class="fas fa-cubes"></i> Models</a>
+    {% endif %}
+  </div>
+
 </div>
