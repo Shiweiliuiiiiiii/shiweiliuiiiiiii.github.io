@@ -1,0 +1,14 @@
+.pub-item { margin: 0 0 1.25rem 0; }
+.pub-title { font-weight: 700; font-size: 1.05rem; }
+.pub-authors { margin-top: .2rem; }
+.pub-venue { margin-top: .15rem; opacity: .85; }
+
+.pub-links { margin-top: .35rem; display: flex; gap: .4rem; flex-wrap: wrap; }
+.pub-links .pill {
+  display: inline-block;
+  padding: .18rem .55rem;
+  border: 1px solid rgba(0,0,0,.18);
+  border-radius: 999px;
+  font-size: .85rem;
+  text-decoration: none;
+}

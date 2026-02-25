@@ -6,10 +6,10 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 2
 ---
-# Publications
 
-{% bibliography --template bibliography-zlab %}
- 
+ ## 2026
+{% bibliography --template bibliography-weilab --query @*[year=2026] %}
+
 [//]: # (<!-- _pages/publications.md -->)
 
 [//]: # ()
