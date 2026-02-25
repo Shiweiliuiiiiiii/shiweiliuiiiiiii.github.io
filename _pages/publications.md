@@ -9,7 +9,29 @@ nav_order: 2
 
  ## 2026
 
-{% bibliography --template bibliography-weilab %}
+{% bibliography --template bibliography-weilab --query @*[year=2026] %}
+
+ ## 2025
+
+{% bibliography --template bibliography-weilab --query @*[year=2025] %}
+
+ ## 2024
+
+{% bibliography --template bibliography-weilab --query @*[year=2024] %}
+
+
+ ## 2023
+
+{% bibliography --template bibliography-weilab --query @*[year=2023] %}
+
+
+ ## 2022
+
+{% bibliography --template bibliography-weilab --query @*[year=2022] %}
+
+ ## 2021
+
+{% bibliography --template bibliography-weilab --query @*[year=2021] %}
 
 [//]: # (<!-- _pages/publications.md -->)
 
