@@ -7,9 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-[//]: # ({% bibliography --template bibliography-zlab %})
  ## 2026
-{% bibliography --template bibliography-weilab --query @*[year=2026] %}
+
+{% bibliography --template bibliography-weilab %}
 
 [//]: # (<!-- _pages/publications.md -->)
 
