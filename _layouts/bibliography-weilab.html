@@ -1,31 +1,23 @@
-<div class="pub-item">
-  <div class="pub-title">
-    {% if entry.website %}
-      <a href="{{ entry.website }}">{{ entry.title }}</a>
-    {% elsif entry.url %}
-      <a href="{{ entry.url }}">{{ entry.title }}</a>
-    {% else %}
-      {{ entry.title }}
-    {% endif %}
-  </div>
-
-  {% if entry.author %}
-    <div class="pub-authors">
-      {{ entry.author }}
-    </div>
+<div class="pub-meta-line">
+  {% if entry.venue %}
+    <span class="venue">{{ entry.venue }}</span>
   {% endif %}
 
-  <div class="pub-venue">
-    {% if entry.booktitle %}{{ entry.booktitle }}{% endif %}
-    {% if entry.journal %}{{ entry.journal }}{% endif %}
-    {% if entry.howpublished %}{{ entry.howpublished }}{% endif %}
-    {% if entry.year %}{% unless entry.booktitle or entry.journal or entry.howpublished %}{{ entry.year }}{% endunless %}{% endif %}
-  </div>
+  {% if entry.paper %}
+    <a href="{{ entry.paper }}" class="pub-link">
+      <i class="fas fa-file-alt"></i> Paper
+    </a>
+  {% endif %}
 
-  <div class="pub-links">
-    {% if entry.paper %}<a class="pill" href="{{ entry.paper }}">Paper</a>{% endif %}
-    {% if entry.code %}<a class="pill" href="{{ entry.code }}">Code</a>{% endif %}
-    {% if entry.models %}<a class="pill" href="{{ entry.models }}">Models</a>{% endif %}
-    {% if entry.slides %}<a class="pill" href="{{ entry.slides }}">Slides</a>{% endif %}
-  </div>
+  {% if entry.code %}
+    <a href="{{ entry.code }}" class="pub-link">
+      <i class="fab fa-github"></i> Code
+    </a>
+  {% endif %}
+
+  {% if entry.models %}
+    <a href="{{ entry.models }}" class="pub-link">
+      <i class="fas fa-cubes"></i> Models
+    </a>
+  {% endif %}
 </div>
