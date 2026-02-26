@@ -24,20 +24,3 @@ nav_order: 2
 
 
 {% bibliography --template bibliography-weilab --query @*[year=2021] %}
-
-[//]: # (<!-- _pages/publications.md -->)
-
-[//]: # ()
-[//]: # (<!-- Bibsearch Feature -->)
-
-[//]: # ()
-[//]: # ({% include bib_search.liquid %})
-
-[//]: # ()
-[//]: # (<div class="publications">)
-
-[//]: # ()
-[//]: # ({% bibliography %})
-
-[//]: # ()
-[//]: # (</div>)
