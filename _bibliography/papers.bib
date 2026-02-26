@@ -116,18 +116,26 @@
   models = {https://huggingface.co/…},
 }
 
+@article{li2025outlier,
+  title={Outlier-weighed layerwise sampling for LLM fine-tuning},
+  author={Li, Pengxiang and Yin, Lu and Gao, Xiaowei and Liu, Shiwei},
+  venue={Findings of the Association for Computational Linguistics: ACL 2025},
+  paper={https://arxiv.org/abs/2405.18380},
+  code     = {https://github.com/pixeli99/OWS},
+  models = {https://huggingface.co/…},
+  year={2025}
+}
 
 @article{li2024owlore,
   title    = {OwLore: Outlier-weighed Layerwise Sampled Low-Rank Projection for Memory-Efficient LLM Fine-tuning},
   author   = {Li, Pengxiang and Yin, Lu and Gao, Xiaowei and Liu, Shiwei},
   year     = {2024},
-  journal  = {arXiv preprint arXiv:2405.18380},
-  abbr     = {Preprint},
-  selected = {true},
-  venue    = {Preprint},
+  venue    = {ICLR 2025},
+  paper    = {https://arxiv.org/abs/2501.06842},
+  code     = {https://github.com/TianjinYellow/SPAM-Optimizer},
+  models = {https://huggingface.co/…},
   paper    = {https://arxiv.org/abs/2405.18380},
 }
-
 
 @article{yin2023outlier,
   title    = {Outlier weighed layerwise sparsity (owl): A missing secret sauce for pruning llms to high sparsity},
@@ -185,16 +193,17 @@
   abbr    = {ICLR2024},
   venue   = {ICLR 2024},
   paper   = {https://arxiv.org/abs/2310.08915},
+  code     = {https://github.com/zyxxmu/DSnoT}
 }
 
 @article{yang2023adamerging,
   title   = {Adamerging: Adaptive model merging for multi-task learning},
   author  = {Yang, Enneng and Wang, Zhenyi and Shen, Li and Liu, Shiwei and Guo, Guibing and Wang, Xingwei and Tao, Dacheng},
   year    = {2024},
-  journal = {arXiv preprint arXiv:2310.02575},
   abbr    = {ICLR2024},
   venue   = {ICLR 2024},
   paper   = {https://arxiv.org/abs/2310.02575},
+  code     = {https://github.com/EnnengYang/AdaMerging}
 }
 
 @article{liu2023don,
@@ -214,11 +223,11 @@
   title    = {More convnets in the 2020s: Scaling up kernels beyond 51x51 using sparsity},
   author   = {Liu, Shiwei and Chen, Tianlong and Chen, Xiaohan and Chen, Xuxi and Xiao, Qiao and Wu, Boqian and K{\"a}rkk{\"a}inen, Tommi and Pechenizkiy, Mykola and Mocanu, Decebal and Wang, Zhangyang},
   year     = {2023},
-  journal  = {arXiv preprint arXiv:2207.03620},
   abbr     = {ICLR2023},
   selected = {true},
   venue    = {ICLR 2023},
   paper    = {https://arxiv.org/abs/2207.03620},
+  code     = {https://github.com/VITA-Group/SLaK/issues}
 }
 
 @article{hoang2023revisiting,
@@ -227,14 +236,17 @@
   year   = {2023},
   abbr   = {ICLR2023},
   venue  = {ICLR 2023},
+  paper    = {https://openreview.net/forum?id=uVcDssQff_},
+  code    = {https://github.com/VITA-Group/ramanujan-on-pai},
 }
 
 @article{chen2023sparse,
   title  = {Sparse moe as the new dropout: Scaling dense and self-slimmable transformers},
   author = {Chen, Tianlong and Zhang, Zhenyu and Jaiswal, Ajay and Liu, Shiwei and Wang, Zhangyang},
   year   = {2023},
-  abbr   = {ICLR2023},
   venue  = {ICLR 2023},
+  paper    = {https://arxiv.org/abs/2303.01610},
+  code    = {https://github.com/VITA-Group/Random-MoE-as-Dropout},
 }
 
 @article{liu2023sparsity,
@@ -243,6 +255,9 @@
   year   = {2023},
   abbr   = {ICLR2023},
   venue  = {ICLR 2023},
+  paper    = {https://arxiv.org/abs/2303.02141},
+  code    = {https://github.com/VITA-Group/SMC-Bench},
+  models  = {https://huggingface.co/...}
 }
 
 @article{huang2022you,
@@ -251,6 +266,7 @@
   year     = {2022},
   abbr     = {LoG2022},
   selected = {true},
+  code     = {https://github.com/TianjinYellow/UGTs-LoG}
   venue    = {LoG 2022},
 }
 
@@ -258,11 +274,10 @@
   title    = {The unreasonable effectiveness of random pruning: Return of the most naive baseline for sparse training},
   author   = {Liu, Shiwei and Chen, Tianlong and Chen, Xiaohan and Shen, Li and Mocanu, Decebal Constantin and Wang, Zhangyang and Pechenizkiy, Mykola},
   year     = {2022},
-  journal  = {arXiv preprint arXiv:2202.02643},
-  abbr     = {ICLR2022},
-  selected = {true},
   venue    = {ICLR 2022},
   paper    = {https://arxiv.org/abs/2202.02643},
+  code    = {https://github.com/VITA-Group/FreeTickets},
+  models  = {https://huggingface.co/...}
 }
 
 @article{liu2021deep,
@@ -279,33 +294,29 @@
   title    = {Sparse training via boosting pruning plasticity with neuroregeneration},
   author   = {Liu, Shiwei and Chen, Tianlong and Chen, Xiaohan and Atashgahi, Zahra and Yin, Lu and Kou, Huanyu and Shen, Li and Pechenizkiy, Mykola and Wang, Zhangyang and Mocanu, Decebal Constantin},
   year     = {2021},
-  journal  = {Advances in Neural Information Processing Systems},
-  volume   = {34},
-  pages    = {9908--9922},
-  abbr     = {NeurIPS2021},
-  selected = {true},
-  venue    = {NeurIPS 2021},
+  venue   = {NeurIPS 2021},
+  paper   = {https://arxiv.org/abs/2106.10404},
+  code    = {https://github.com/VITA-Group/GraNet},
+  models  = {https://huggingface.co/...}
 }
 
 @inproceedings{liu2021we,
   title     = {Do we actually need dense over-parameterization? in-time over-parameterization in sparse training},
   author    = {Liu, Shiwei and Yin, Lu and Mocanu, Decebal Constantin and Pechenizkiy, Mykola},
   year      = {2021},
-  booktitle = {International Conference on Machine Learning},
-  pages     = {6989--7000},
-  abbr      = {ICML2021},
-  selected  = {true},
-  organization = {PMLR},
-  venue     = {ICML 2021},
+  venue   = {ICML 2021},
+  paper   = {https://arxiv.org/abs/2102.02887},
+  code    = {https://github.com/Shiweiliuiiiiiii/In-Time-Over-Parameterization},
+  models  = {https://huggingface.co/...}
 }
 
 @inproceedings{liu2021selfish,
   title     = {Selfish sparse rnn training},
   author    = {Liu, Shiwei and Mocanu, Decebal Constantin and Pei, Yulong and Pechenizkiy, Mykola},
   year      = {2021},
-  booktitle = {International Conference on Machine Learning},
-  pages     = {6893--6904},
-  abbr      = {ICML2021},
-  organization = {PMLR},
-  venue     = {ICML 2021},
+  venue   = {ICML 2021},
+  paper   = {https://arxiv.org/abs/2101.09048},
+  code    = {https://github.com/Shiweiliuiiiiiii/Selfish-RNN},
+  models  = {https://huggingface.co/...}
 }
+
