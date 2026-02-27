@@ -24,7 +24,7 @@ Hi, I am an PI at [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/en/
 
 **Research Interests**
 ======
-My overarching research goal is to advance the frontiers of artificial intelligence from multiple perspectives, including but not limited to enhance the capabilities of large foundation models (pre-training and post-training), improve the efficiency and accessibility of AI, develop deeper fundamental understanding of deep learning behavior, and exploring novel architectural designs, and better data curation.
+My overarching research goal is to advance the frontiers of informatics systems from multiple perspectives, including but not limited to enhance the capabilities of large foundation models (pre-training and post-training), improve the efficiency and accessibility of systems, develop deeper fundamental understanding of model behavior, and exploring novel architectural designs, and better data curation.
 
 **Hiring Info:** I am actively hiring self-motivated PhD students and postdocs based on [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/de/jobs/phd-positions), with opportunities for joining leading universities such as ETH Zurich, University of Oxford, and other.
 
