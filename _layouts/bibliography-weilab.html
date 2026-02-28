@@ -14,19 +14,16 @@
     {{ entry.author }}
   </div>
 
-  <!-- Venue -->
-  <div class="pub-venue">
-    {% if entry.venue %}
-      {{ entry.venue }}
-    {% elsif entry.journal %}
-      {{ entry.journal }}
-    {% elsif entry.booktitle %}
-      {{ entry.booktitle }}
-    {% endif %}
-  </div>
-
-  <!-- Links -->
+  <!-- Venue + Links (same line) -->
   <div class="pub-links">
+    {% if entry.venue %}
+      <span class="pub-venue-inline">{{ entry.venue }}</span>
+    {% elsif entry.journal %}
+      <span class="pub-venue-inline">{{ entry.journal }}</span>
+    {% elsif entry.booktitle %}
+      <span class="pub-venue-inline">{{ entry.booktitle }}</span>
+    {% endif %}
+
     {% if entry.paper %}
       <a href="{{ entry.paper }}"><i class="fas fa-file-alt"></i> Paper</a>
     {% endif %}
