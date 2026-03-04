@@ -26,6 +26,7 @@ Hi, I am an PI at [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/en/
 ======
 My overarching research goal is to advance the frontiers of informatics systems from multiple perspectives, including but not limited to enhance the capabilities of large foundation models (pre-training and post-training), improve the efficiency and accessibility of systems, develop deeper fundamental understanding of model behavior, and exploring novel architectural designs, and better data curation.
 
+<!--
 **▶ Effective Pre-training with a Focus on the Curse of Depth**
 - [The Curse of Depth in Large Language Models](https://arxiv.org/abs/2502.05795)
 - [Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and Post-LN](https://arxiv.org/abs/2412.13795)
@@ -44,7 +45,7 @@ My overarching research goal is to advance the frontiers of informatics systems 
 **▶ New Computing Paradigms: Diffusion Language Models**
 - [Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?](https://arxiv.org/abs/2602.23225)
 - [Diffusion language models know the answer before decoding](https://arxiv.org/pdf/2508.19982)
-
+-->
 
 **Hiring Info**
 ======
