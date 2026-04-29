@@ -33,7 +33,7 @@ My overarching research goal is to advance the frontiers of informatics systems 
 
 **▶ ML Efficiency**
 - Efficient pre-training: [LOST: Low-rank and Sparse Pre-training for Large Language Models](https://arxiv.org/abs/2508.02668), [In-Time Over-Parameterization in Sparse Training](https://arxiv.org/abs/2102.02887)
-- HT-theory inspired LLM compression: [AlphaPruning](https://arxiv.org/abs/2410.10912), [AlphaQ: Calibration-Free Bit Allocation for Mixture-of-Experts Quantization](), [Outlier Weighed Layerwise Sparsity (OWL)](https://arxiv.org/abs/2310.05175)
+- HT-theory inspired LLM compression: [AlphaPruning](https://arxiv.org/abs/2410.10912), [AlphaQ](), [Outlier Weighed Layerwise Sparsity (OWL)](https://arxiv.org/abs/2310.05175)
  
 **▶ Post-training SFT and RL**
 - [LIFT the Veil for the Truth: Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning](https://arxiv.org/pdf/2506.00772)
