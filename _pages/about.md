@@ -28,8 +28,9 @@ My overarching research goal is to advance the frontiers of informatics systems 
 
 **▶ Effective Pre-training with a Focus on the Curse of Depth**
 - [The Curse of Depth in Large Language Models](https://arxiv.org/abs/2502.05795)
+- [When Does Sparsity Mitigate the Curse of Depth in LLMs](https://pumpkin-co.github.io/SparsityAndCoD/)
+- [One LR Doesn't Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs](https://openreview.net/forum?id=Aj3ZWgxYwt&referrer=%5Bthe+profile+of+Shiwei+Liu%5D%28%2Fprofile%3Fid%3D%7EShiwei_Liu2%29)
 - [Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and Post-LN](https://arxiv.org/abs/2412.13795)
-- [One LR Doesn't Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs]()
 
 **▶ ML Efficiency**
 - Efficient pre-training: [LOST: Low-rank and Sparse Pre-training for Large Language Models](https://arxiv.org/abs/2508.02668), [In-Time Over-Parameterization in Sparse Training](https://arxiv.org/abs/2102.02887)
