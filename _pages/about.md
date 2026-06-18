@@ -43,6 +43,7 @@ My overarching research goal is to advance the frontiers of informatics systems 
 **▶ New Computing Paradigms: Diffusion Language Models**
 - [Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?](https://arxiv.org/abs/2602.23225)
 - [Diffusion language models know the answer before decoding](https://arxiv.org/pdf/2508.19982)
+- [Learning from the Self-future: On-policy Self-distillation for dLLMs](https://huggingface.co/papers/2606.18195)
 
 **Hiring Info**
 ======
