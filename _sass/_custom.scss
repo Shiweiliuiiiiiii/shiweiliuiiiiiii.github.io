@@ -110,8 +110,9 @@
   display: block;
   width: 100%;
   aspect-ratio: 1 / 1;
+  padding: 1.15rem;
   border: 0;
-  background: var(--global-divider-color);
+  background: #ecece8;
   object-fit: cover;
   object-position: center;
 }
