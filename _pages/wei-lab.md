@@ -61,6 +61,17 @@ nav_order: 3
   </article>
 
   <article class="lab-member">
+    <a class="lab-member__link" href="https://institute-tue.ellis.eu/wei/en/people/33b6a9f6-f5e3-49b9-bd1b-7b7ea92b8705" target="_blank" rel="noopener noreferrer">
+      <img class="lab-member__photo" src="https://institute-tue.ellis.eu/uploads/person/image/99998645/thumb_ticker_sm_Ivo_Gollini_Navarrete.png" alt="Ivo Gollini Navarrete">
+      <div class="lab-member__body">
+        <h3>Ivo Gollini Navarrete</h3>
+        <p>Intern</p>
+        <span class="lab-member__more">View profile <span aria-hidden="true">↗</span></span>
+      </div>
+    </a>
+  </article>
+
+  <article class="lab-member">
     <a class="lab-member__link" href="https://davidgonmar.com/" target="_blank" rel="noopener noreferrer">
       <img class="lab-member__photo" src="{{ '/assets/img/people/david.jpg' | relative_url }}" alt="David González-Martínez">
       <div class="lab-member__body">
