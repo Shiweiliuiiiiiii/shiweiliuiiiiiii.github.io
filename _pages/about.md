@@ -2,46 +2,63 @@
 layout: about
 title: PI
 permalink: /
-news: true
-selected_papers: false
-social: true
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+ 
+
+news: true # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
-<section class="home-hero">
-  <div class="home-hero__content">
-    <span class="home-label">Principal Investigator · Group Leader</span>
-    <h1>Shiwei Liu</h1>
-    <p class="home-lead">Building more capable and efficient AI</p>
-    <div class="home-affiliations">
-      <a href="https://institute-tue.ellis.eu/en/news/new-PIs-2025">ELLIS Institute Tübingen ↗</a>
-      <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems ↗</a>
-    </div>
-    <a class="home-email" href="mailto:sliu@tue.ellis.eu">sliu@tue.ellis.eu</a>
-  </div>
-  <img class="home-portrait" src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Portrait of Shiwei Liu">
-</section>
+Hi, I am an PI at [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/en/news/new-PIs-2025) and a group leader at [Max Planck Institute for Intelligent Systems](https://is.mpg.de/). Previously, I was a [Royal Society Newton International Fellow](https://royalsociety.org/grants/newton-international/) at University of Oxford, and a Junior Research Fellow (JRF) at [Somerville College](https://www.some.ox.ac.uk/). I was a postdoctoral fellow at UT Austin, working with Atlas Wang. I obtained my Ph.D. at the Eindhoven University of Technology (TU/e), the Netherlands, under the supervision of Mykola Pechenizkiy and Decebal Constantin Mocanu. My email address is sliu(at)tue.ellis.eu
 
-<section class="home-about">
-  <span class="home-label">About</span>
-  <p>I am a Principal Investigator at ELLIS Institute Tübingen and a group leader at the Max Planck Institute for Intelligent Systems. Previously, I was a Royal Society Newton International Fellow at the University of Oxford and a Junior Research Fellow at Somerville College. Before that, I worked with Atlas Wang as a postdoctoral fellow at UT Austin. I received my PhD from Eindhoven University of Technology, supervised by Mykola Pechenizkiy and Decebal Constantin Mocanu.</p>
-</section>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-<section class="home-research">
-  <header class="home-section-head">
-    <div><span class="home-label">Research</span><h2>Current directions</h2></div>
-    <p>Advancing foundation models across pre-training, efficiency, post-training, architecture, and data.</p>
-  </header>
-  <div class="research-grid">
-    <article class="research-card"><span>01</span><h3>Effective pre-training</h3><p>Understanding and overcoming the curse of depth in large language models.</p><ul><li><a href="https://arxiv.org/abs/2502.05795">The Curse of Depth in LLMs</a></li><li><a href="https://pumpkin-co.github.io/SparsityAndCoD/">Sparsity and the Curse of Depth</a></li><li><a href="https://arxiv.org/abs/2605.22297">Layerwise Learning Rates</a></li><li><a href="https://arxiv.org/abs/2412.13795">Mix-LN</a></li></ul></article>
-    <article class="research-card"><span>02</span><h3>ML efficiency</h3><p>Efficient pre-training and theory-inspired compression for large models.</p><ul><li><a href="https://arxiv.org/abs/2508.02668">LOST</a></li><li><a href="https://arxiv.org/abs/2102.02887">In-Time Over-Parameterization</a></li><li><a href="https://arxiv.org/abs/2410.10912">AlphaPruning</a> · <a href="https://openreview.net/forum?id=rbE8Pxs8vx">AlphaQ</a> · <a href="https://arxiv.org/abs/2310.05175">OWL</a></li></ul></article>
-    <article class="research-card"><span>03</span><h3>Post-training</h3><p>Supervised fine-tuning and reinforcement learning for stronger reasoning models.</p><ul><li><a href="https://arxiv.org/pdf/2506.00772">LIFT the Veil for the Truth</a></li><li>More work is cooking.</li></ul></article>
-    <article class="research-card"><span>04</span><h3>Diffusion language models</h3><p>Exploring new computing paradigms beyond autoregressive generation.</p><ul><li><a href="https://arxiv.org/abs/2602.23225">Truly Parallel Decoding</a></li><li><a href="https://arxiv.org/pdf/2508.19982">Knowing Before Decoding</a></li><li><a href="https://huggingface.co/papers/2606.18195">Learning from the Self-future</a></li></ul></article>
-  </div>
-</section>
+**Current Research Interests**
+======
+My overarching research goal is to advance the frontiers of informatics systems from multiple perspectives, including but not limited to enhance the capabilities of large foundation models (pre-training and post-training), improve the efficiency and accessibility of systems, develop deeper fundamental understanding of model behavior, and exploring novel architectural designs, and better data curation.
 
-<section class="home-hiring">
-  <span class="home-label">Join us</span><h2>We are hiring.</h2>
-  <p>I am looking for self-motivated PhD students and postdocs based at ELLIS Institute Tübingen, with opportunities to connect with leading universities including ETH Zürich and the University of Oxford.</p>
-  <div><a href="https://ellis.eu/phd-postdoc">ELLIS PhD Program ↗</a><a href="https://learning-systems.org/">Max Planck–ETH CLS ↗</a><a href="https://imprs.is.mpg.de/">IMPRS-IS ↗</a></div>
-  <small><strong>Potential collaborations:</strong> Please get in touch with the research area you would like to contribute to.</small>
-</section>
+**▶ Effective Pre-training with a Focus on the Curse of Depth**
+- [The Curse of Depth in Large Language Models](https://arxiv.org/abs/2502.05795)
+- [When Does Sparsity Mitigate the Curse of Depth in LLMs](https://pumpkin-co.github.io/SparsityAndCoD/)
+- [One LR Doesn't Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs](https://arxiv.org/abs/2605.22297)
+- [Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and Post-LN](https://arxiv.org/abs/2412.13795)
+
+**▶ ML Efficiency**
+- Efficient pre-training: [LOST: Low-rank and Sparse Pre-training for Large Language Models](https://arxiv.org/abs/2508.02668), [In-Time Over-Parameterization in Sparse Training](https://arxiv.org/abs/2102.02887)
+- Heavy-Tailed-theory inspired LLM compression: [AlphaPruning](https://arxiv.org/abs/2410.10912), [AlphaQ](https://openreview.net/forum?id=rbE8Pxs8vx&referrer=%5Bthe%20profile%20of%20Shiwei%20Liu%5D(%2Fprofile%3Fid%3D~Shiwei_Liu2)), [Outlier Weighed Layerwise Sparsity (OWL)](https://arxiv.org/abs/2310.05175)
+ 
+**▶ Post-training SFT and RL**
+- [LIFT the Veil for the Truth: Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning](https://arxiv.org/pdf/2506.00772)
+- more are cooking
+
+**▶ New Computing Paradigms: Diffusion Language Models**
+- [Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?](https://arxiv.org/abs/2602.23225)
+- [Diffusion language models know the answer before decoding](https://arxiv.org/pdf/2508.19982)
+- [Learning from the Self-future: On-policy Self-distillation for dLLMs](https://huggingface.co/papers/2606.18195)
+
+**Hiring Info**
+======
+I am actively hiring self-motivated PhD students and postdocs based on [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/de/jobs/phd-positions), with opportunities for joining leading universities such as ETH Zurich, University of Oxford, and other.
+
+- [ELLIS PhD Program](https://ellis.eu/phd-postdoc)
+- [Max Planck & ETH Center for Learning Systems (CLS)](https://learning-systems.org/)  
+- [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/)
+
+**Potential Collaborations:** If you are interested in collaborating, feel free to reach out with the potential area of research you would like to contribute to! 
+
+
+&nbsp;
+&nbsp;
+
+
+
+
