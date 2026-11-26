@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="380" viewBox="0 0 1000 380" role="img" aria-label="Normalized EMA residual memory">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#60777b"/></marker></defs>
+<rect width="1000" height="380" rx="16" fill="#f3f7f6"/>
+<g font-family="Arial, sans-serif" fill="#183b40" text-anchor="middle">
+<text x="500" y="36" font-size="21" font-weight="bold">A fixed-size memory of earlier computation</text>
+<rect x="30" y="75" width="230" height="72" rx="10" fill="#dce9e6"/><text x="145" y="104" font-size="18">Previous memory</text><text x="145" y="131" font-size="20">N, D</text>
+<rect x="30" y="191" width="230" height="72" rx="10" fill="#dce9e6"/><text x="145" y="219" font-size="18">Current attention output</text><text x="145" y="247" font-size="20">o</text>
+<rect x="350" y="111" width="300" height="116" rx="10" fill="#183b40"/><text x="500" y="145" font-size="19" fill="white">N ← βN + o</text><text x="500" y="177" font-size="19" fill="white">D ← βD + 1</text><text x="500" y="207" font-size="15" fill="#c9e4db">fixed β = 0.5</text>
+<rect x="750" y="130" width="220" height="78" rx="10" fill="#dce9e6"/><text x="860" y="161" font-size="18">Residual summary</text><text x="860" y="189" font-size="21">r = N / D</text>
+<g stroke="#60777b" stroke-width="2.5" fill="none" marker-end="url(#arrow)"><path d="M260 111 L300 111 L300 145 L345 145"/><path d="M260 227 L300 227 L300 193 L345 193"/><path d="M650 169 L745 169"/></g>
+<text x="500" y="309" font-size="18">Global memory: persists across layers and loops</text><text x="500" y="340" font-size="18">Local memory: resets at the start of each loop</text>
+</g></svg>
