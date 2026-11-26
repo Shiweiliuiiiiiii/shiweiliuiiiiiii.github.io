@@ -4,6 +4,11 @@ title: From Model Compression to Looped Transformers
 date: 2026-11-26 12:00:00 +0800
 author: Shiwei Liu
 description: How the Curse of Depth Changed My Perspective on Efficient AI
+cover_image: /assets/img/blog/from-model-compression-to-looped-transformers/looped-transformer-cover.png
+cover_image_alt: A luminous loop of information passes repeatedly through a single shared Transformer core.
+cover_image_width: 1672
+cover_image_height: 941
+cover_image_caption: Shared parameters. Deeper computation.
 permalink: /blog/2026/from-model-compression-to-looped-transformers/
 research_blog: true
 related_posts: false
@@ -13,6 +18,9 @@ toc:
   beginning: true
 _styles: |
   .post-header .post-title { line-height: 1.18; }
+  .post-cover { margin: 1.5rem 0 2.5rem; }
+  .post-cover img { display: block; width: 100%; height: auto; border-radius: .75rem; }
+  .post-cover figcaption { margin-top: .75rem; font-size: .875rem; color: var(--global-text-color); text-align: center; }
   .post-content { font-size: 1.0625rem; line-height: 1.85; }
   .post-content h2 { margin-top: 2.75rem; line-height: 1.3; scroll-margin-top: 6rem; }
   .post-content h3 { margin-top: 2rem; line-height: 1.35; scroll-margin-top: 6rem; }
